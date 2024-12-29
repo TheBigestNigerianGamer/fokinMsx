@@ -608,8 +608,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-29 21:59:10 +0000",
       "cooked_mutton": "2024-12-29 05:01:08 +0000",
       "cooked_beef": "2024-12-29 04:59:38 +0000",
+      "apple": "2024-12-29 21:56:02 +0000",
       "cooked_chicken": "2024-12-29 05:08:15 +0000"
     },
     "done": false
@@ -1561,6 +1563,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-29 21:33:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-29 22:04:07 +0000"
     },
     "done": true
   },
