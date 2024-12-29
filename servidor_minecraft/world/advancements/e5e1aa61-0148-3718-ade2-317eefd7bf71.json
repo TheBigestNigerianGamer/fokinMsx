@@ -595,6 +595,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-29 22:42:15 +0000",
       "minecraft:skeleton": "2024-12-29 04:52:26 +0000",
       "minecraft:spider": "2024-12-29 05:20:54 +0000",
       "minecraft:creeper": "2024-12-29 04:48:13 +0000",
@@ -1452,6 +1453,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-29 22:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-29 22:42:15 +0000"
     },
     "done": true
   },
