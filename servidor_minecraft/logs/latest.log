@@ -230,3 +230,12 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [22:10:25] [Server thread/INFO]: [Not Secure] <Yumalala> :catjam:
 [22:16:46] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
 [22:16:51] [Server thread/INFO]: [Yumalala: Teleported Yumalala to AKUSGOD]
+[22:19:13] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[22:24:31] [Server thread/INFO]: AKUSGOD lost connection: Disconnected
+[22:24:31] [Server thread/INFO]: AKUSGOD left the game
+[22:24:31] [Server thread/WARN]: handleDisconnection() called twice
+[22:24:46] [Server thread/INFO]: AKUSGOD[/[0:0:0:0:0:0:0:1%0]:46898] logged in with entity id 16372 at (-294.22684819518764, 80.26636799395752, -386.29095687667666)
+[22:24:46] [Server thread/INFO]: Syncing config to AKUSGOD (9b7302cc-a0d4-33a7-8fb0-7958ddb08cf3)
+[22:24:46] [Server thread/INFO]: Loading config from file...
+[22:24:46] [Server thread/INFO]: AKUSGOD joined the game
+[22:24:46] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player AKUSGOD. Claiming: GRAVE / Robbing: INVENTORY
