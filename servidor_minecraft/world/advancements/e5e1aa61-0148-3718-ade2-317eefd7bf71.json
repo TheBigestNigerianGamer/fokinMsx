@@ -1492,6 +1492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-29 23:47:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-29 23:45:20 +0000"
@@ -1564,6 +1570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-29 23:53:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2024-12-29 23:44:51 +0000"
@@ -1612,6 +1624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-29 23:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-29 23:42:45 +0000"
@@ -1645,6 +1663,12 @@
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2024-12-29 23:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-29 23:47:24 +0000"
     },
     "done": true
   },
