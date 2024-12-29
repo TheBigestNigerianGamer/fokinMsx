@@ -223,3 +223,45 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [04:20:14] [Server thread/INFO]: Did not backup data (grave data empty)
 [04:21:15] [Server thread/INFO]: Yumalala was shot by Pillager
 [04:21:49] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 58, 64, -176, minecraft:overworld
+[04:30:56] [Server thread/INFO]: AKUSGOD[/[0:0:0:0:0:0:0:1%0]:36726] logged in with entity id 3382 at (92.5, 64.0, -37.5)
+[04:30:56] [Server thread/INFO]: Syncing config to AKUSGOD (9b7302cc-a0d4-33a7-8fb0-7958ddb08cf3)
+[04:30:56] [Server thread/INFO]: Loading config from file...
+[04:30:56] [Server thread/INFO]: AKUSGOD joined the game
+[04:30:58] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player AKUSGOD. Claiming: GRAVE / Robbing: INVENTORY
+[04:31:06] [Server thread/INFO]: Yumalala was shot by Pillager
+[04:31:32] [Server thread/INFO]: Yumalala was slain by Zombie
+[04:31:32] [Server thread/INFO]: Did not backup data (grave data empty)
+[04:31:46] [Server thread/INFO]: Yumalala was slain by Zombie
+[04:31:46] [Server thread/INFO]: Did not backup data (grave data empty)
+[04:36:05] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 46, 64, -154, minecraft:overworld
+[04:37:40] [Server thread/INFO]: Yumalala was shot by Pillager
+[04:38:05] [Server thread/INFO]: AKUSGOD was shot by Pillager
+[04:38:54] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 196, 73, -295, minecraft:overworld
+[04:39:05] [Server thread/INFO]: AKUSGOD claimed a grave belonging to AKUSGOD at 116, 71, -215, minecraft:overworld
+[04:39:21] [Server thread/INFO]: Yumalala has made the advancement [Stone Age]
+[04:39:31] [Server thread/INFO]: Yumalala has made the advancement [Getting an Upgrade]
+[04:40:20] [Server thread/INFO]: AKUSGOD has made the advancement [Stone Age]
+[04:40:29] [Server thread/INFO]: waos223[/[0:0:0:0:0:0:0:1%0]:55768] logged in with entity id 6594 at (106.5, 64.0, -24.5)
+[04:40:29] [Server thread/INFO]: Syncing config to waos223 (6ded628b-28b1-317d-89cc-917630f797fc)
+[04:40:29] [Server thread/INFO]: Loading config from file...
+[04:40:29] [Server thread/INFO]: waos223 joined the game
+[04:40:29] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player waos223. Claiming: GRAVE / Robbing: INVENTORY
+[04:41:31] [Server thread/INFO]: [Not Secure] <waos223> :peped::catjam:
+[04:41:49] [Server thread/INFO]: [Not Secure] <Yumalala> :squirr:
+[04:42:26] [Server thread/INFO]: AKUSGOD has made the advancement [Getting an Upgrade]
+[04:42:42] [Server thread/INFO]: waos223 has made the advancement [Stone Age]
+[04:42:55] [Server thread/INFO]: waos223 has made the advancement [Getting an Upgrade]
+[04:46:25] [Server thread/INFO]: waos223 has made the advancement [Monster Hunter]
+[04:48:13] [Server thread/INFO]: Yumalala has made the advancement [Monster Hunter]
+[04:49:30] [Server thread/INFO]: waos223 lost connection: Timed out
+[04:49:30] [Server thread/INFO]: waos223 left the game
+[04:50:10] [Server thread/INFO]: waos223[/[0:0:0:0:0:0:0:1%0]:52408] logged in with entity id 8508 at (101.39396365535677, 69.0, -221.5074304368336)
+[04:50:10] [Server thread/INFO]: Syncing config to waos223 (6ded628b-28b1-317d-89cc-917630f797fc)
+[04:50:10] [Server thread/INFO]: Loading config from file...
+[04:50:10] [Server thread/INFO]: waos223 joined the game
+[04:50:11] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player waos223. Claiming: GRAVE / Robbing: INVENTORY
+[04:50:12] [Server thread/INFO]: [Not Secure] <Yumalala> :peped:
+[04:50:47] [Server thread/INFO]: Yumalala was shot by Skeleton
+[04:51:53] [Server thread/INFO]: waos223 was shot by Skeleton
+[04:51:55] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 136, 69, -218, minecraft:overworld
+[04:52:37] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 129, 69, -210, minecraft:overworld
