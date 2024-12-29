@@ -19,6 +19,7 @@
       "minecraft:stony_shore": "2024-12-29 05:32:08 +0000",
       "minecraft:forest": "2024-12-29 04:36:33 +0000",
       "minecraft:ocean": "2024-12-29 05:46:43 +0000",
+      "minecraft:flower_forest": "2024-12-29 22:11:18 +0000",
       "minecraft:savanna": "2024-12-29 04:30:57 +0000",
       "minecraft:plains": "2024-12-29 05:29:02 +0000"
     },
@@ -1512,6 +1513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-29 22:14:25 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2024-12-29 21:37:49 +0000"
@@ -1599,6 +1606,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-29 21:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-29 22:14:25 +0000"
     },
     "done": true
   },
