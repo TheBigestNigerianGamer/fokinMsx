@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-29 05:46:54 +0000"
+    },
+    "done": true
+  },
   "chiselsandbits:recipes/tools/bit_storage": {
     "criteria": {
       "has_l": "2024-12-29 04:32:59 +0000"
@@ -272,6 +278,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-29 05:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-29 05:46:54 +0000"
     },
     "done": true
   },
@@ -443,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-29 05:46:54 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/sheep": {
     "criteria": {
       "has_white_wool": "2024-12-29 04:43:37 +0000"
@@ -539,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-29 05:46:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-29 05:05:36 +0000"
@@ -566,6 +590,12 @@
   "chiselsandbits:recipes/tools/chisel_iron": {
     "criteria": {
       "has_rod": "2024-12-29 04:34:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-29 05:47:10 +0000"
     },
     "done": true
   },
@@ -608,6 +638,12 @@
   "travelersbackpack:recipes/misc/wolf": {
     "criteria": {
       "has_bone": "2024-12-29 04:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-29 05:46:54 +0000"
     },
     "done": true
   },
@@ -656,6 +692,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-29 05:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-29 05:46:54 +0000"
     },
     "done": true
   },
@@ -749,6 +791,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-29 05:51:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-29 04:39:21 +0000"
@@ -822,6 +870,12 @@
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-29 05:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-29 05:46:54 +0000"
     },
     "done": true
   },
@@ -993,6 +1047,7 @@
       "minecraft:river": "2024-12-29 04:19:54 +0000",
       "minecraft:stony_shore": "2024-12-29 05:00:35 +0000",
       "minecraft:forest": "2024-12-29 04:36:34 +0000",
+      "minecraft:ocean": "2024-12-29 05:47:40 +0000",
       "minecraft:savanna": "2024-12-29 04:17:45 +0000",
       "minecraft:plains": "2024-12-29 04:59:32 +0000"
     },
@@ -1079,6 +1134,12 @@
   "chiselsandbits:recipes/tools/chiseled_printer": {
     "criteria": {
       "has_l": "2024-12-29 04:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-29 05:46:54 +0000"
     },
     "done": true
   },
@@ -1175,6 +1236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-29 05:46:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-29 04:43:37 +0000"
@@ -1184,6 +1251,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-29 05:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-29 05:46:54 +0000"
     },
     "done": true
   },
