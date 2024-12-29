@@ -1,12 +1,12 @@
-[04:13:15] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[04:13:16] [main/WARN]: Warnings were found!
+[21:26:53] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[21:26:54] [main/WARN]: Warnings were found!
  - Mod 'SimplySkills' (simplyskills) 1.7.1+1.20.1 recommends version 1.0.2+1.20.1 or later of paladins, which is missing!
 	 - You should install version 1.0.2+1.20.1 or later of paladins for the optimal experience.
  - Mod 'SimplySkills' (simplyskills) 1.7.1+1.20.1 recommends version 1.4.2+1.20.1 or later of amethyst_core, which is missing!
 	 - You should install version 1.4.2+1.20.1 or later of amethyst_core for the optimal experience.
  - Mod 'Simply Swords' (simplyswords) 1.56.0-1.20.1 recommends version 1.7.2 or later of bettercombat, which is missing!
 	 - You should install version 1.7.2 or later of bettercombat for the optimal experience.
-[04:13:16] [main/INFO]: Loading 94 mods:
+[21:26:54] [main/INFO]: Loading 94 mods:
 	- architectury 9.2.14
 	- bookshelf 20.2.13
 	- cardinal-components 5.2.2
@@ -118,249 +118,109 @@
 	        |-- jankson 6.0.0+j1.2.3
 	        |    \-- blue_endless_jankson 1.2.3
 	        \-- libninepatch 1.2.0
-[04:13:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fokinMsx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[04:13:16] [main/INFO]: Compatibility level set to JAVA_16
-[04:13:16] [main/INFO]: Compatibility level set to JAVA_17
-[04:13:16] [main/WARN]: Reference map 'chisels-and-bits-fabric-refmap.json' for chiselsandbits.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:13:16] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:13:16] [main/INFO]: Loaded configuration file for ModernFix 5.20.0+mc1.20.1: 63 options available, 0 override(s) found
-[04:13:16] [main/INFO]: Applying Nashorn fix
-[04:13:16] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[04:13:17] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
-[04:13:17] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
-[04:13:17] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
-[04:13:17] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[04:13:21] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[04:13:21] [main/INFO]: Vanilla bootstrap took 3947 milliseconds
-[04:13:22] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[04:13:22] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[04:13:22] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[04:13:22] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[04:13:22] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[04:13:22] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[04:13:22] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[04:13:22] [main/INFO]: Initialized chisels-and-bits for Fabric
-[04:13:22] [main/INFO]: fabric loader environment detected
-[04:13:22] [main/INFO]: Initializing ServerSide Packet Registries
-[04:13:22] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[04:13:22] [main/INFO]: [KONKRETE] Successfully initialized!
-[04:13:22] [main/INFO]: [KONKRETE] Server-side libs ready to use!
-[04:13:22] [main/INFO]: Initialized Saecularia-Caudices
-[04:13:22] [main/INFO]: Loaded block entity configuration.
-[04:13:22] [main/INFO]: Loaded block configuration.
-[04:13:22] [main/INFO]: Loaded chisel mode group configuration.
-[04:13:23] [main/INFO]: Loaded chisel mode configuration.
-[04:13:23] [main/INFO]: Loaded container type configuration.
-[04:13:23] [main/INFO]: Loaded item group configuration.
-[04:13:23] [main/INFO]: Loaded item configuration.
-[04:13:23] [main/INFO]: Loaded metadata key configuration.
-[04:13:23] [main/INFO]: Loaded model property configuration.
-[04:13:23] [main/INFO]: Loaded modification operation configuration.
-[04:13:23] [main/INFO]: Loaded modification operation group configuration.
-[04:13:23] [main/INFO]: Loaded pattern placement type configuration.
-[04:13:23] [main/INFO]: Loaded recipe serializer configuration.
-[04:13:23] [main/INFO]: Loaded tag configuration.
-[04:13:23] [main/INFO]: Registering recipe types.
-[04:13:23] [main/INFO]: Registering event handlers
-[04:13:24] [main/INFO]: Initialized scena-fabric
-[04:13:24] [main/INFO]: Registering Items for simplyskills
-[04:13:24] [main/INFO]: Registering Entities for simplyskills
-[04:13:25] [main/INFO]: [STDOUT]: /workspaces/fokinMsx/servidor_minecraft/config
-[04:13:25] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[04:13:25] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[04:13:25] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[04:13:25] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[04:13:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:13:25] [main/INFO]: Bypassed Mojang DFU
-[04:13:26] [main/WARN]: Adding spell_power:fire to saved/remote registry.
-[04:13:26] [main/WARN]: Adding spell_power:frost to saved/remote registry.
-[04:13:26] [main/WARN]: Adding spell_power:arcane to saved/remote registry.
-[04:13:26] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[04:13:28] [main/INFO]: Loaded 9 recipes
-[04:13:29] [main/ERROR]: Parsing error loading custom advancement rpg_series:rune_crafter: Expected item to be an item, was unknown string 'runes:crafting_altar'
-[04:13:29] [main/INFO]: Loaded 1472 advancements
-[04:13:29] [main/INFO]: Reloading grave shape (server)
-[04:13:29] [main/INFO]: Grave model and shape reload successful (server)
-[04:13:29] [main/INFO]: Reloading YIGD graveyard data (server)
-[04:13:29] [main/INFO]: Graveyard data successfully reloaded (server)
-[04:13:29] [main/INFO]: Reloading YIGD grave area overrides (server)
-[04:13:29] [main/INFO]: Grave area overrides successfully reloaded (server)
-[04:13:29] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.168 ms
-[04:13:29] [Server thread/INFO]: [puffish_skills] Mod configuration loaded successfully!
-[04:13:29] [Server thread/WARN]: [puffish_skills] Data pack `simplyskills` loaded successfully with warning(s):
+[21:26:54] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fokinMsx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:26:54] [main/INFO]: Compatibility level set to JAVA_16
+[21:26:54] [main/INFO]: Compatibility level set to JAVA_17
+[21:26:54] [main/WARN]: Reference map 'chisels-and-bits-fabric-refmap.json' for chiselsandbits.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:26:54] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:26:54] [main/INFO]: Loaded configuration file for ModernFix 5.20.0+mc1.20.1: 63 options available, 0 override(s) found
+[21:26:54] [main/INFO]: Applying Nashorn fix
+[21:26:54] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:26:55] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[21:26:55] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[21:26:55] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
+[21:26:55] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:26:59] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[21:26:59] [main/INFO]: Vanilla bootstrap took 3743 milliseconds
+[21:26:59] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[21:26:59] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[21:26:59] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[21:26:59] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[21:26:59] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[21:26:59] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[21:26:59] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[21:26:59] [main/INFO]: Initialized chisels-and-bits for Fabric
+[21:26:59] [main/INFO]: fabric loader environment detected
+[21:27:00] [main/INFO]: Initializing ServerSide Packet Registries
+[21:27:00] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[21:27:00] [main/INFO]: [KONKRETE] Successfully initialized!
+[21:27:00] [main/INFO]: [KONKRETE] Server-side libs ready to use!
+[21:27:00] [main/INFO]: Initialized Saecularia-Caudices
+[21:27:00] [main/INFO]: Loaded block entity configuration.
+[21:27:00] [main/INFO]: Loaded block configuration.
+[21:27:00] [main/INFO]: Loaded chisel mode group configuration.
+[21:27:01] [main/INFO]: Loaded chisel mode configuration.
+[21:27:01] [main/INFO]: Loaded container type configuration.
+[21:27:01] [main/INFO]: Loaded item group configuration.
+[21:27:01] [main/INFO]: Loaded item configuration.
+[21:27:01] [main/INFO]: Loaded metadata key configuration.
+[21:27:01] [main/INFO]: Loaded model property configuration.
+[21:27:01] [main/INFO]: Loaded modification operation configuration.
+[21:27:01] [main/INFO]: Loaded modification operation group configuration.
+[21:27:01] [main/INFO]: Loaded pattern placement type configuration.
+[21:27:01] [main/INFO]: Loaded recipe serializer configuration.
+[21:27:01] [main/INFO]: Loaded tag configuration.
+[21:27:01] [main/INFO]: Registering recipe types.
+[21:27:01] [main/INFO]: Registering event handlers
+[21:27:03] [main/INFO]: Initialized scena-fabric
+[21:27:03] [main/INFO]: Registering Items for simplyskills
+[21:27:03] [main/INFO]: Registering Entities for simplyskills
+[21:27:03] [main/INFO]: [STDOUT]: /workspaces/fokinMsx/servidor_minecraft/config
+[21:27:04] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[21:27:04] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[21:27:04] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[21:27:04] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[21:27:04] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:27:04] [main/INFO]: Bypassed Mojang DFU
+[21:27:05] [main/WARN]: Adding spell_power:fire to saved/remote registry.
+[21:27:05] [main/WARN]: Adding spell_power:frost to saved/remote registry.
+[21:27:05] [main/WARN]: Adding spell_power:arcane to saved/remote registry.
+[21:27:05] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[21:27:07] [main/INFO]: Loaded 9 recipes
+[21:27:07] [main/ERROR]: Parsing error loading custom advancement rpg_series:rune_crafter: Expected item to be an item, was unknown string 'runes:crafting_altar'
+[21:27:07] [main/INFO]: Loaded 1472 advancements
+[21:27:07] [main/INFO]: Reloading grave shape (server)
+[21:27:07] [main/INFO]: Grave model and shape reload successful (server)
+[21:27:07] [main/INFO]: Reloading YIGD graveyard data (server)
+[21:27:07] [main/INFO]: Graveyard data successfully reloaded (server)
+[21:27:07] [main/INFO]: Reloading YIGD grave area overrides (server)
+[21:27:07] [main/INFO]: Grave area overrides successfully reloaded (server)
+[21:27:07] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.247 ms
+[21:27:07] [Server thread/INFO]: [puffish_skills] Mod configuration loaded successfully!
+[21:27:07] [Server thread/WARN]: [puffish_skills] Data pack `simplyskills` loaded successfully with warning(s):
 Data pack `simplyskills` uses outdated version. Please update the configuration version to 3 at `version` at `simplyskills:puffish_skills/config.json`
-[04:13:29] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): 200068 bytes (in 21 string chunks with the size of 10000)
-[04:13:29] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[04:13:29] [Server thread/INFO]: Loading properties
-[04:13:29] [Server thread/INFO]: Default game type: SURVIVAL
-[04:13:29] [Server thread/INFO]: Generating keypair
-[04:13:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:13:29] [Server thread/INFO]: Using epoll channel type
-[04:13:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:13:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:13:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:13:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:13:29] [Server thread/INFO]: Preparing level "world"
-[04:13:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:13:32] [Server thread/INFO]: Preparing spawn area: 0%
-[04:13:32] [Server thread/INFO]: Preparing spawn area: 0%
-[04:13:32] [Server thread/INFO]: Preparing spawn area: 0%
-[04:13:32] [Server thread/INFO]: Preparing spawn area: 0%
-[04:13:32] [Server thread/INFO]: Preparing spawn area: 0%
-[04:13:32] [Server thread/INFO]: Time elapsed: 2497 ms
-[04:13:32] [Server thread/INFO]: Done (2.903s)! For help, type "help"
-[04:13:32] [Server thread/WARN]: Dedicated server took 17.752 seconds to load
-[04:13:32] [Server thread/INFO]: Start loading plugin from Jade
-[04:13:32] [Server thread/INFO]: Start loading plugin from Jade
-[04:13:32] [Server thread/INFO]: Start loading plugin from Jade
-[04:13:32] [Server thread/INFO]: Start loading plugin from HT's TreeChop
-[04:17:43] [Server thread/INFO]: Yumalala[/[0:0:0:0:0:0:0:1%0]:35686] logged in with entity id 128 at (97.5, 64.0, -21.5)
-[04:17:43] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
-[04:17:43] [Server thread/INFO]: Loading config from file...
-[04:17:43] [Server thread/INFO]: Yumalala joined the game
-[04:17:45] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
-[04:20:14] [Server thread/INFO]: Yumalala was shot by Pillager
-[04:20:14] [Server thread/INFO]: Did not backup data (grave data empty)
-[04:21:15] [Server thread/INFO]: Yumalala was shot by Pillager
-[04:21:49] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 58, 64, -176, minecraft:overworld
-[04:30:56] [Server thread/INFO]: AKUSGOD[/[0:0:0:0:0:0:0:1%0]:36726] logged in with entity id 3382 at (92.5, 64.0, -37.5)
-[04:30:56] [Server thread/INFO]: Syncing config to AKUSGOD (9b7302cc-a0d4-33a7-8fb0-7958ddb08cf3)
-[04:30:56] [Server thread/INFO]: Loading config from file...
-[04:30:56] [Server thread/INFO]: AKUSGOD joined the game
-[04:30:58] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player AKUSGOD. Claiming: GRAVE / Robbing: INVENTORY
-[04:31:06] [Server thread/INFO]: Yumalala was shot by Pillager
-[04:31:32] [Server thread/INFO]: Yumalala was slain by Zombie
-[04:31:32] [Server thread/INFO]: Did not backup data (grave data empty)
-[04:31:46] [Server thread/INFO]: Yumalala was slain by Zombie
-[04:31:46] [Server thread/INFO]: Did not backup data (grave data empty)
-[04:36:05] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 46, 64, -154, minecraft:overworld
-[04:37:40] [Server thread/INFO]: Yumalala was shot by Pillager
-[04:38:05] [Server thread/INFO]: AKUSGOD was shot by Pillager
-[04:38:54] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 196, 73, -295, minecraft:overworld
-[04:39:05] [Server thread/INFO]: AKUSGOD claimed a grave belonging to AKUSGOD at 116, 71, -215, minecraft:overworld
-[04:39:21] [Server thread/INFO]: Yumalala has made the advancement [Stone Age]
-[04:39:31] [Server thread/INFO]: Yumalala has made the advancement [Getting an Upgrade]
-[04:40:20] [Server thread/INFO]: AKUSGOD has made the advancement [Stone Age]
-[04:40:29] [Server thread/INFO]: waos223[/[0:0:0:0:0:0:0:1%0]:55768] logged in with entity id 6594 at (106.5, 64.0, -24.5)
-[04:40:29] [Server thread/INFO]: Syncing config to waos223 (6ded628b-28b1-317d-89cc-917630f797fc)
-[04:40:29] [Server thread/INFO]: Loading config from file...
-[04:40:29] [Server thread/INFO]: waos223 joined the game
-[04:40:29] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player waos223. Claiming: GRAVE / Robbing: INVENTORY
-[04:41:31] [Server thread/INFO]: [Not Secure] <waos223> :peped::catjam:
-[04:41:49] [Server thread/INFO]: [Not Secure] <Yumalala> :squirr:
-[04:42:26] [Server thread/INFO]: AKUSGOD has made the advancement [Getting an Upgrade]
-[04:42:42] [Server thread/INFO]: waos223 has made the advancement [Stone Age]
-[04:42:55] [Server thread/INFO]: waos223 has made the advancement [Getting an Upgrade]
-[04:46:25] [Server thread/INFO]: waos223 has made the advancement [Monster Hunter]
-[04:48:13] [Server thread/INFO]: Yumalala has made the advancement [Monster Hunter]
-[04:49:30] [Server thread/INFO]: waos223 lost connection: Timed out
-[04:49:30] [Server thread/INFO]: waos223 left the game
-[04:50:10] [Server thread/INFO]: waos223[/[0:0:0:0:0:0:0:1%0]:52408] logged in with entity id 8508 at (101.39396365535677, 69.0, -221.5074304368336)
-[04:50:10] [Server thread/INFO]: Syncing config to waos223 (6ded628b-28b1-317d-89cc-917630f797fc)
-[04:50:10] [Server thread/INFO]: Loading config from file...
-[04:50:10] [Server thread/INFO]: waos223 joined the game
-[04:50:11] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player waos223. Claiming: GRAVE / Robbing: INVENTORY
-[04:50:12] [Server thread/INFO]: [Not Secure] <Yumalala> :peped:
-[04:50:47] [Server thread/INFO]: Yumalala was shot by Skeleton
-[04:51:53] [Server thread/INFO]: waos223 was shot by Skeleton
-[04:51:55] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 136, 69, -218, minecraft:overworld
-[04:52:37] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 129, 69, -210, minecraft:overworld
-[04:54:51] [Server thread/INFO]: waos223 was slain by AKUSGOD
-[04:54:54] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 113, 71, -218, minecraft:overworld
-[04:56:59] [Server thread/INFO]: waos223 was shot by Pillager
-[04:57:19] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 61, 64, -182, minecraft:overworld
-[04:57:28] [Server thread/INFO]: waos223 was shot by Pillager
-[04:57:44] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 64, 64, -183, minecraft:overworld
-[04:59:35] [Server thread/INFO]: waos223 was shot by Pillager
-[04:59:49] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 75, 68, -187, minecraft:overworld
-[04:59:54] [Server thread/INFO]: waos223 was shot by Pillager
-[05:00:08] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 73, 68, -187, minecraft:overworld
-[05:00:15] [Server thread/INFO]: waos223 was shot by Pillager
-[05:00:30] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 87, 68, -187, minecraft:overworld
-[05:03:03] [Server thread/INFO]: waos223 was shot by Pillager
-[05:03:29] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 43, 71, -169, minecraft:overworld
-[05:05:02] [Server thread/INFO]: waos223 was shot by Skeleton
-[05:05:16] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 84, 77, -214, minecraft:overworld
-[05:05:36] [Server thread/INFO]: Yumalala has made the advancement [Acquire Hardware]
-[05:05:46] [Server thread/INFO]: Yumalala has made the advancement [Suit Up]
-[05:05:46] [Server thread/INFO]: AKUSGOD has made the advancement [Sweet Dreams]
-[05:05:50] [Server thread/INFO]: Yumalala has made the advancement [Isn't It Iron Pick]
-[05:07:02] [Server thread/INFO]: Yumalala has made the advancement [Not Today, Thank You]
-[05:07:49] [Server thread/INFO]: Yumalala was shot by Skeleton
-[05:10:05] [Server thread/INFO]: waos223 was slain by Spider
-[05:10:17] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 116, 81, -250, minecraft:overworld
-[05:10:33] [Server thread/INFO]: waos223 was slain by Spider
-[05:10:48] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 95, 82, -262, minecraft:overworld
-[05:11:09] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -302, 19, -62, minecraft:overworld
-[05:12:30] [Server thread/INFO]: waos223 was shot by Skeleton
-[05:12:44] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 120, 76, -259, minecraft:overworld
-[05:12:48] [Server thread/INFO]: Yumalala was blown up by Creeper
-[05:12:54] [Server thread/INFO]: AKUSGOD was shot by Skeleton
-[05:13:21] [Server thread/INFO]: AKUSGOD claimed a grave belonging to AKUSGOD at 126, 72, -265, minecraft:overworld
-[05:13:48] [Server thread/INFO]: AKUSGOD has made the advancement [Monster Hunter]
-[05:14:24] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -293, 30, -62, minecraft:overworld
-[05:22:10] [Server thread/INFO]: AKUSGOD was slain by Zombie
-[05:23:54] [Server thread/INFO]: Yumalala was slain by Zombie
-[05:25:21] [Server thread/INFO]: Yumalala was doomed to fall by Skeleton
-[05:25:21] [Server thread/INFO]: Did not backup data (grave data empty)
-[05:26:15] [Server thread/INFO]: AKUSGOD was shot by Skeleton
-[05:26:28] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[05:26:28] [Server thread/INFO]: OP YUMALALA<--[HERE]
-[05:26:48] [Server thread/INFO]: Made Yumalala a server operator
-[05:27:05] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
-[05:27:11] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
-[05:27:12] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -356, -30, -87, minecraft:overworld
-[05:27:14] [Server thread/INFO]: AKUSGOD claimed a grave belonging to AKUSGOD at -113, 66, -304, minecraft:overworld
-[05:28:29] [Server thread/INFO]: AKUSGOD claimed a grave belonging to AKUSGOD at -113, 31, -305, minecraft:overworld
-[05:29:02] [Server thread/INFO]: [Yumalala: Teleported AKUSGOD to Yumalala]
-[05:30:11] [Server thread/INFO]: Yumalala has made the advancement [Diamonds!]
-[05:30:33] [Server thread/INFO]: waos223 has made the advancement [Sweet Dreams]
-[05:31:53] [Server thread/INFO]: waos223 has made the advancement [Acquire Hardware]
-[05:32:28] [Server thread/INFO]: waos223 has made the advancement [Not Today, Thank You]
-[05:32:52] [Server thread/INFO]: waos223 was slain by Zombie
-[05:33:06] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 154, 65, -172, minecraft:overworld
-[05:33:56] [Server thread/INFO]: waos223 was shot by Pillager
-[05:34:17] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 45, 63, -152, minecraft:overworld
-[05:34:36] [Server thread/INFO]: waos223 was shot by Pillager
-[05:34:57] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 59, 64, -152, minecraft:overworld
-[05:35:07] [Server thread/INFO]: waos223 was shot by Pillager
-[05:35:27] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 72, 64, -160, minecraft:overworld
-[05:35:49] [Server thread/INFO]: waos223 has made the advancement [Voluntary Exile]
-[05:38:30] [Server thread/INFO]: AKUSGOD was slain by Zombie
-[05:38:36] [Server thread/INFO]: [Yumalala: Teleported AKUSGOD to Yumalala]
-[05:38:40] [Server thread/INFO]: [Yumalala: Teleported AKUSGOD to Yumalala]
-[05:38:43] [Server thread/INFO]: AKUSGOD claimed a grave belonging to AKUSGOD at -366, -42, -256, minecraft:overworld
-[05:39:54] [Server thread/INFO]: AKUSGOD has made the advancement [Acquire Hardware]
-[05:39:56] [Server thread/INFO]: waos223 was shot by Pillager
-[05:40:06] [Server thread/INFO]: AKUSGOD has made the advancement [Isn't It Iron Pick]
-[05:40:12] [Server thread/INFO]: AKUSGOD has made the advancement [Diamonds!]
-[05:40:13] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 68, 63, -181, minecraft:overworld
-[05:40:24] [Server thread/INFO]: waos223 was shot by Pillager
-[05:40:40] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 67, 63, -184, minecraft:overworld
-[05:40:45] [Server thread/INFO]: waos223 was shot by Pillager
-[05:41:01] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 71, 63, -180, minecraft:overworld
-[05:41:29] [Server thread/INFO]: waos223 was shot by Pillager
-[05:41:52] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 40, 64, -166, minecraft:overworld
-[05:42:06] [Server thread/INFO]: AKUSGOD has made the advancement [Suit Up]
-[05:42:12] [Server thread/INFO]: waos223 was shot by Pillager
-[05:42:42] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 41, 65, -169, minecraft:overworld
-[05:43:08] [Server thread/INFO]: waos223 was shot by Pillager
-[05:43:31] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 66, 64, -151, minecraft:overworld
-[05:45:34] [Server thread/INFO]: AKUSGOD was shot by Skeleton
-[05:45:43] [Server thread/INFO]: [Yumalala: Teleported AKUSGOD to Yumalala]
-[05:45:49] [Server thread/INFO]: [Yumalala: Teleported AKUSGOD to Yumalala]
-[05:46:01] [Server thread/INFO]: AKUSGOD claimed a grave belonging to AKUSGOD at -448, 8, -333, minecraft:overworld
-[05:46:27] [Server thread/INFO]: waos223 was shot by Pillager
-[05:46:49] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 29, 64, -209, minecraft:overworld
-[05:47:04] [Server thread/INFO]: waos223 was blown up by Creeper
-[05:47:32] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 6, 63, -203, minecraft:overworld
-[05:47:48] [Server thread/INFO]: waos223 was shot by Pillager
-[05:48:11] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 17, 64, -204, minecraft:overworld
-[05:51:44] [Server thread/INFO]: Yumalala has made the advancement [Sweet Dreams]
-[05:52:03] [Server thread/INFO]: waos223 was shot by Pillager
-[05:52:04] [Server thread/INFO]: [Not Secure] <Yumalala> :catjam::balance::balance::balance::balance::balance::balance::balance:
-[05:52:29] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 47, 64, -173, minecraft:overworld
-[05:52:42] [Server thread/INFO]: waos223 was shot by Pillager
-[05:52:59] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 50, 64, -189, minecraft:overworld
-[05:53:20] [Server thread/INFO]: waos223 was shot by Pillager
-[05:53:42] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at 41, 64, -167, minecraft:overworld
+[21:27:08] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): 200068 bytes (in 21 string chunks with the size of 10000)
+[21:27:08] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:27:08] [Server thread/INFO]: Loading properties
+[21:27:08] [Server thread/INFO]: Default game type: SURVIVAL
+[21:27:08] [Server thread/INFO]: Generating keypair
+[21:27:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:27:08] [Server thread/INFO]: Using epoll channel type
+[21:27:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:27:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:27:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:27:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:27:08] [Server thread/INFO]: Preparing level "world"
+[21:27:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:27:10] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:10] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:10] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:10] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:10] [Server thread/INFO]: Preparing spawn area: 0%
+[21:27:11] [Server thread/INFO]: Time elapsed: 2467 ms
+[21:27:11] [Server thread/INFO]: Done (2.837s)! For help, type "help"
+[21:27:11] [Server thread/WARN]: Dedicated server took 18.427 seconds to load
+[21:27:11] [Server thread/INFO]: Start loading plugin from Jade
+[21:27:11] [Server thread/INFO]: Start loading plugin from Jade
+[21:27:11] [Server thread/INFO]: Start loading plugin from Jade
+[21:27:11] [Server thread/INFO]: Start loading plugin from HT's TreeChop
+[21:28:26] [Server thread/INFO]: AKUSGOD[/[0:0:0:0:0:0:0:1%0]:46590] logged in with entity id 151 at (-313.57448724867385, 77.0, -383.7811064429241)
+[21:28:26] [Server thread/INFO]: Syncing config to AKUSGOD (9b7302cc-a0d4-33a7-8fb0-7958ddb08cf3)
+[21:28:26] [Server thread/INFO]: Loading config from file...
+[21:28:26] [Server thread/INFO]: AKUSGOD joined the game
+[21:28:27] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player AKUSGOD. Claiming: GRAVE / Robbing: INVENTORY
+[21:31:26] [Server thread/INFO]: Yumalala[/[0:0:0:0:0:0:0:1%0]:49602] logged in with entity id 1032 at (-293.9335368132007, 66.0, -459.3371367864469)
+[21:31:26] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[21:31:26] [Server thread/INFO]: Loading config from file...
+[21:31:26] [Server thread/INFO]: Yumalala joined the game
+[21:31:27] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
