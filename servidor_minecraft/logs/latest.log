@@ -1,0 +1,225 @@
+[04:13:15] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[04:13:16] [main/WARN]: Warnings were found!
+ - Mod 'SimplySkills' (simplyskills) 1.7.1+1.20.1 recommends version 1.0.2+1.20.1 or later of paladins, which is missing!
+	 - You should install version 1.0.2+1.20.1 or later of paladins for the optimal experience.
+ - Mod 'SimplySkills' (simplyskills) 1.7.1+1.20.1 recommends version 1.4.2+1.20.1 or later of amethyst_core, which is missing!
+	 - You should install version 1.4.2+1.20.1 or later of amethyst_core for the optimal experience.
+ - Mod 'Simply Swords' (simplyswords) 1.56.0-1.20.1 recommends version 1.7.2 or later of bettercombat, which is missing!
+	 - You should install version 1.7.2 or later of bettercombat for the optimal experience.
+[04:13:16] [main/INFO]: Loading 94 mods:
+	- architectury 9.2.14
+	- bookshelf 20.2.13
+	- cardinal-components 5.2.2
+	   |-- cardinal-components-base 5.2.2
+	   |-- cardinal-components-block 5.2.2
+	   |-- cardinal-components-chunk 5.2.2
+	   |-- cardinal-components-entity 5.2.2
+	   |-- cardinal-components-item 5.2.2
+	   |-- cardinal-components-level 5.2.2
+	   |-- cardinal-components-scoreboard 5.2.2
+	   \-- cardinal-components-world 5.2.2
+	- chiselsandbits 1.4.148
+	   |-- org_lz4_lz4-pure-java 1.8.0
+	   |-- saeculariacaudices 1.0.23
+	   \-- scena 1.0.103
+	        \-- saeculariacaudices 1.0.23
+	- cloth-config 11.1.136
+	   \-- cloth-basic-math 0.6.1
+	- clumps 12.0.0.4
+	- coroutil 1.20.1-1.3.7
+	   \-- forgeconfigapiport 8.0.0
+	- emojiful 4.2.0
+	   |-- com_esotericsoftware_yamlbeans_yamlbeans 1.15
+	   \-- midnightlib 1.1.0
+	- fabric-api 0.92.2+1.20.1
+	   |-- fabric-api-base 0.4.31+1802ada577
+	   |-- fabric-api-lookup-api-v1 1.6.36+1802ada577
+	   |-- fabric-biome-api-v1 13.0.13+1802ada577
+	   |-- fabric-block-api-v1 1.0.11+1802ada577
+	   |-- fabric-block-view-api-v2 1.0.1+1802ada577
+	   |-- fabric-blockrenderlayer-v1 1.1.41+1802ada577
+	   |-- fabric-client-tags-api-v1 1.1.2+1802ada577
+	   |-- fabric-command-api-v1 1.2.34+f71b366f77
+	   |-- fabric-command-api-v2 2.2.13+1802ada577
+	   |-- fabric-commands-v0 0.2.51+df3654b377
+	   |-- fabric-containers-v0 0.1.64+df3654b377
+	   |-- fabric-content-registries-v0 4.0.11+1802ada577
+	   |-- fabric-convention-tags-v1 1.5.5+1802ada577
+	   |-- fabric-crash-report-info-v1 0.2.19+1802ada577
+	   |-- fabric-data-attachment-api-v1 1.0.0+de0fd6d177
+	   |-- fabric-data-generation-api-v1 12.3.4+1802ada577
+	   |-- fabric-dimensions-v1 2.1.54+1802ada577
+	   |-- fabric-entity-events-v1 1.6.0+1c78457f77
+	   |-- fabric-events-interaction-v0 0.6.2+1802ada577
+	   |-- fabric-events-lifecycle-v0 0.2.63+df3654b377
+	   |-- fabric-game-rule-api-v1 1.0.40+1802ada577
+	   |-- fabric-item-api-v1 2.1.28+1802ada577
+	   |-- fabric-item-group-api-v1 4.0.12+1802ada577
+	   |-- fabric-key-binding-api-v1 1.0.37+1802ada577
+	   |-- fabric-keybindings-v0 0.2.35+df3654b377
+	   |-- fabric-lifecycle-events-v1 2.2.22+1802ada577
+	   |-- fabric-loot-api-v2 1.2.1+1802ada577
+	   |-- fabric-loot-tables-v1 1.1.45+9e7660c677
+	   |-- fabric-message-api-v1 5.1.9+1802ada577
+	   |-- fabric-mining-level-api-v1 2.1.50+1802ada577
+	   |-- fabric-model-loading-api-v1 1.0.3+1802ada577
+	   |-- fabric-models-v0 0.4.2+9386d8a777
+	   |-- fabric-networking-api-v1 1.3.11+1802ada577
+	   |-- fabric-networking-v0 0.3.51+df3654b377
+	   |-- fabric-object-builder-api-v1 11.1.3+1802ada577
+	   |-- fabric-particles-v1 1.1.2+1802ada577
+	   |-- fabric-recipe-api-v1 1.0.21+1802ada577
+	   |-- fabric-registry-sync-v0 2.3.3+1802ada577
+	   |-- fabric-renderer-api-v1 3.2.1+1802ada577
+	   |-- fabric-renderer-indigo 1.5.2+85287f9f77
+	   |-- fabric-renderer-registries-v1 3.2.46+df3654b377
+	   |-- fabric-rendering-data-attachment-v1 0.3.37+92a0d36777
+	   |-- fabric-rendering-fluids-v1 3.0.28+1802ada577
+	   |-- fabric-rendering-v0 1.1.49+df3654b377
+	   |-- fabric-rendering-v1 3.0.8+1802ada577
+	   |-- fabric-resource-conditions-api-v1 2.3.8+1802ada577
+	   |-- fabric-resource-loader-v0 0.11.10+1802ada577
+	   |-- fabric-screen-api-v1 2.0.8+1802ada577
+	   |-- fabric-screen-handler-api-v1 1.3.30+1802ada577
+	   |-- fabric-sound-api-v1 1.0.13+1802ada577
+	   |-- fabric-transfer-api-v1 3.3.5+8dd72ea377
+	   \-- fabric-transitive-access-wideners-v1 4.3.1+1802ada577
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- jade 11.11.0+fabric
+	- java 17
+	- jei 15.12.2.51
+	- journeymap 5.10.3
+	   \-- journeymap-api-fabric 1.20-1.9-fabric-SNAPSHOT
+	- justzoom 2.0.0
+	- konkrete 1.8.1
+	- mcwfurnitures 3.3.0
+	- minecraft 1.20.1
+	- modernfix 5.20.0+mc1.20.1
+	- player-animator 1.0.2-rc1+1.20
+	- puffish_attributes 0.6.6
+	   \-- mixinextras 0.4.1
+	- puffish_skills 0.14.5
+	- simplyskills 1.7.1+1.20.1
+	   \-- com_github_zsoltmolnarrr_tinyconfig 2.3.2
+	- simplyswords 1.56.0-1.20.1
+	   \-- spruceui 5.0.0+1.20
+	- spell_engine 0.15.12+1.20.1
+	- spell_power 0.12.0+1.20.1
+	- travelersbackpack 9.1.18
+	   \-- reach-entity-attributes 2.4.0
+	- treechop 0.19.0
+	- trinkets 3.7.2
+	- watut 1.20.1-1.1.3
+	   \-- forgeconfigapiport 8.0.0
+	- yigd 2.0.10
+	   |-- fabric-permissions-api-v0 0.2-SNAPSHOT
+	   \-- libgui 8.1.1+1.20.1
+	        |-- jankson 6.0.0+j1.2.3
+	        |    \-- blue_endless_jankson 1.2.3
+	        \-- libninepatch 1.2.0
+[04:13:16] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fokinMsx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[04:13:16] [main/INFO]: Compatibility level set to JAVA_16
+[04:13:16] [main/INFO]: Compatibility level set to JAVA_17
+[04:13:16] [main/WARN]: Reference map 'chisels-and-bits-fabric-refmap.json' for chiselsandbits.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:13:16] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:13:16] [main/INFO]: Loaded configuration file for ModernFix 5.20.0+mc1.20.1: 63 options available, 0 override(s) found
+[04:13:16] [main/INFO]: Applying Nashorn fix
+[04:13:16] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[04:13:17] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[04:13:17] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[04:13:17] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
+[04:13:17] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[04:13:21] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[04:13:21] [main/INFO]: Vanilla bootstrap took 3947 milliseconds
+[04:13:22] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[04:13:22] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[04:13:22] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[04:13:22] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[04:13:22] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[04:13:22] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[04:13:22] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[04:13:22] [main/INFO]: Initialized chisels-and-bits for Fabric
+[04:13:22] [main/INFO]: fabric loader environment detected
+[04:13:22] [main/INFO]: Initializing ServerSide Packet Registries
+[04:13:22] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[04:13:22] [main/INFO]: [KONKRETE] Successfully initialized!
+[04:13:22] [main/INFO]: [KONKRETE] Server-side libs ready to use!
+[04:13:22] [main/INFO]: Initialized Saecularia-Caudices
+[04:13:22] [main/INFO]: Loaded block entity configuration.
+[04:13:22] [main/INFO]: Loaded block configuration.
+[04:13:22] [main/INFO]: Loaded chisel mode group configuration.
+[04:13:23] [main/INFO]: Loaded chisel mode configuration.
+[04:13:23] [main/INFO]: Loaded container type configuration.
+[04:13:23] [main/INFO]: Loaded item group configuration.
+[04:13:23] [main/INFO]: Loaded item configuration.
+[04:13:23] [main/INFO]: Loaded metadata key configuration.
+[04:13:23] [main/INFO]: Loaded model property configuration.
+[04:13:23] [main/INFO]: Loaded modification operation configuration.
+[04:13:23] [main/INFO]: Loaded modification operation group configuration.
+[04:13:23] [main/INFO]: Loaded pattern placement type configuration.
+[04:13:23] [main/INFO]: Loaded recipe serializer configuration.
+[04:13:23] [main/INFO]: Loaded tag configuration.
+[04:13:23] [main/INFO]: Registering recipe types.
+[04:13:23] [main/INFO]: Registering event handlers
+[04:13:24] [main/INFO]: Initialized scena-fabric
+[04:13:24] [main/INFO]: Registering Items for simplyskills
+[04:13:24] [main/INFO]: Registering Entities for simplyskills
+[04:13:25] [main/INFO]: [STDOUT]: /workspaces/fokinMsx/servidor_minecraft/config
+[04:13:25] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[04:13:25] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[04:13:25] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[04:13:25] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[04:13:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:13:25] [main/INFO]: Bypassed Mojang DFU
+[04:13:26] [main/WARN]: Adding spell_power:fire to saved/remote registry.
+[04:13:26] [main/WARN]: Adding spell_power:frost to saved/remote registry.
+[04:13:26] [main/WARN]: Adding spell_power:arcane to saved/remote registry.
+[04:13:26] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[04:13:28] [main/INFO]: Loaded 9 recipes
+[04:13:29] [main/ERROR]: Parsing error loading custom advancement rpg_series:rune_crafter: Expected item to be an item, was unknown string 'runes:crafting_altar'
+[04:13:29] [main/INFO]: Loaded 1472 advancements
+[04:13:29] [main/INFO]: Reloading grave shape (server)
+[04:13:29] [main/INFO]: Grave model and shape reload successful (server)
+[04:13:29] [main/INFO]: Reloading YIGD graveyard data (server)
+[04:13:29] [main/INFO]: Graveyard data successfully reloaded (server)
+[04:13:29] [main/INFO]: Reloading YIGD grave area overrides (server)
+[04:13:29] [main/INFO]: Grave area overrides successfully reloaded (server)
+[04:13:29] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.168 ms
+[04:13:29] [Server thread/INFO]: [puffish_skills] Mod configuration loaded successfully!
+[04:13:29] [Server thread/WARN]: [puffish_skills] Data pack `simplyskills` loaded successfully with warning(s):
+Data pack `simplyskills` uses outdated version. Please update the configuration version to 3 at `version` at `simplyskills:puffish_skills/config.json`
+[04:13:29] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): 200068 bytes (in 21 string chunks with the size of 10000)
+[04:13:29] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[04:13:29] [Server thread/INFO]: Loading properties
+[04:13:29] [Server thread/INFO]: Default game type: SURVIVAL
+[04:13:29] [Server thread/INFO]: Generating keypair
+[04:13:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:13:29] [Server thread/INFO]: Using epoll channel type
+[04:13:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:13:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:13:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:13:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:13:29] [Server thread/INFO]: Preparing level "world"
+[04:13:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[04:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[04:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[04:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[04:13:32] [Server thread/INFO]: Preparing spawn area: 0%
+[04:13:32] [Server thread/INFO]: Time elapsed: 2497 ms
+[04:13:32] [Server thread/INFO]: Done (2.903s)! For help, type "help"
+[04:13:32] [Server thread/WARN]: Dedicated server took 17.752 seconds to load
+[04:13:32] [Server thread/INFO]: Start loading plugin from Jade
+[04:13:32] [Server thread/INFO]: Start loading plugin from Jade
+[04:13:32] [Server thread/INFO]: Start loading plugin from Jade
+[04:13:32] [Server thread/INFO]: Start loading plugin from HT's TreeChop
+[04:17:43] [Server thread/INFO]: Yumalala[/[0:0:0:0:0:0:0:1%0]:35686] logged in with entity id 128 at (97.5, 64.0, -21.5)
+[04:17:43] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[04:17:43] [Server thread/INFO]: Loading config from file...
+[04:17:43] [Server thread/INFO]: Yumalala joined the game
+[04:17:45] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[04:20:14] [Server thread/INFO]: Yumalala was shot by Pillager
+[04:20:14] [Server thread/INFO]: Did not backup data (grave data empty)
+[04:21:15] [Server thread/INFO]: Yumalala was shot by Pillager
+[04:21:49] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 58, 64, -176, minecraft:overworld
