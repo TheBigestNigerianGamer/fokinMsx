@@ -55,3 +55,12 @@
 [01:23:31] [Server thread/INFO]: Yumalala left the game
 [01:25:04] [Server thread/INFO]: waos223 was blown up by Creeper
 [01:25:27] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at -282, -26, -324, minecraft:overworld
+[01:34:38] [Server thread/INFO]: Yumalala[/[0:0:0:0:0:0:0:1%0]:43268] logged in with entity id 62278 at (-266.65746827095495, 88.0, -351.6445159038921)
+[01:34:38] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[01:34:38] [Server thread/INFO]: Loading config from file...
+[01:34:38] [Server thread/INFO]: Yumalala joined the game
+[01:34:40] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[01:35:47] [Server thread/INFO]: Yumalala fell from a high place
+[01:37:18] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -256, 87, -351, minecraft:overworld
+[01:37:20] [Server thread/INFO]: waos223 has made the advancement [Suit Up]
+[01:38:23] [Server thread/INFO]: AKUSGOD was blown up by Creeper
