@@ -736,7 +736,8 @@
       "minecraft:pillager": "2024-12-29 23:34:30 +0000",
       "minecraft:skeleton": "2024-12-29 05:45:18 +0000",
       "minecraft:spider": "2024-12-29 05:13:48 +0000",
-      "minecraft:zombie": "2024-12-29 05:21:58 +0000"
+      "minecraft:zombie": "2024-12-29 05:21:58 +0000",
+      "minecraft:drowned": "2024-12-30 01:00:31 +0000"
     },
     "done": false
   },
@@ -1652,6 +1653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-30 01:00:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-29 22:44:39 +0000"
@@ -1664,9 +1671,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-12-30 01:04:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-29 22:45:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-30 01:04:30 +0000"
     },
     "done": true
   },
@@ -1694,6 +1713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-30 01:00:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2024-12-30 00:26:20 +0000"
@@ -1703,6 +1728,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-29 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-30 01:00:19 +0000"
     },
     "done": true
   },
@@ -1727,6 +1758,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-29 23:34:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-30 01:04:30 +0000"
     },
     "done": true
   },
@@ -1778,6 +1815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-30 01:04:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-29 22:44:39 +0000"
@@ -1799,6 +1842,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-29 22:44:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2024-12-30 01:04:30 +0000"
     },
     "done": true
   },
