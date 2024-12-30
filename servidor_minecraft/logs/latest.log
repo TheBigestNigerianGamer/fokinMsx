@@ -66,3 +66,7 @@
 [01:38:23] [Server thread/INFO]: AKUSGOD was blown up by Creeper
 [01:39:28] [Server thread/INFO]: AKUSGOD claimed a grave belonging to AKUSGOD at -281, -14, -324, minecraft:overworld
 [01:48:55] [Server thread/INFO]: [Yumalala: Teleported waos223 to Yumalala]
+[01:55:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-250, y=65, z=-482} class_2338{x=-250, y=63, z=-484}
+[01:55:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-249, y=65, z=-483} class_2338{x=-249, y=63, z=-485}
+[01:55:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-250, y=64, z=-486} class_2338{x=-248, y=64, z=-486}
+[02:04:40] [Server thread/INFO]: [Not Secure] <Yumalala> :peped:
