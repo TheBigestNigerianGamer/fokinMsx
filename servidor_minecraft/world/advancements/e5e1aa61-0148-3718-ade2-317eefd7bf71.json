@@ -2957,45 +2957,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "twigs:recipes/lamps/lamp": {
     "criteria": {
-      "has_flint": "2024-12-31 06:17:23 +0000"
-    },
-    "done": true
-  },
-  "beautify:rope": {
-    "criteria": {
-      "requirement": "2024-12-31 06:30:36 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab": {
-    "criteria": {
-      "has_item": "2024-12-31 06:11:04 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/gravel_bricks/gravel_bricks": {
-    "criteria": {
-      "has_item": "2024-12-31 06:17:22 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-31 06:11:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2024-12-31 06:30:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2024-12-31 06:30:36 +0000"
+      "has_item": "2024-12-31 06:04:04 +0000"
     },
     "done": true
   },
@@ -3005,9 +2969,21 @@
     },
     "done": true
   },
-  "twigs:recipes/gravel_bricks/gravel_brick_slab": {
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
-      "has_item": "2024-12-31 06:17:33 +0000"
+      "has_log": "2024-12-31 06:09:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab": {
+    "criteria": {
+      "has_item": "2024-12-31 06:11:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-31 06:11:04 +0000"
     },
     "done": true
   },
@@ -3023,33 +2999,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-31 06:09:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2024-12-31 06:17:22 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_stonecutting": {
     "criteria": {
       "has_item": "2024-12-31 06:11:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2024-12-31 06:30:36 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/gravel_bricks/gravel_brick_stairs": {
-    "criteria": {
-      "has_item": "2024-12-31 06:17:33 +0000"
     },
     "done": true
   },
@@ -3059,9 +3011,87 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-31 06:11:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2024-12-31 06:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-31 06:17:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-31 06:17:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-31 06:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-31 06:17:23 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/flint": {
+    "criteria": {
+      "has_item": "2024-12-31 06:17:23 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_brick_slab": {
+    "criteria": {
+      "has_item": "2024-12-31 06:17:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_brick_stairs": {
+    "criteria": {
+      "has_item": "2024-12-31 06:17:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_brick_wall": {
+    "criteria": {
+      "has_item": "2024-12-31 06:17:33 +0000"
+    },
+    "done": true
+  },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2024-12-31 06:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-31 06:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-31 06:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-31 06:30:36 +0000"
     },
     "done": true
   },
@@ -3077,39 +3107,9 @@
     },
     "done": true
   },
-  "twigs:recipes/lamps/lamp": {
-    "criteria": {
-      "has_item": "2024-12-31 06:04:04 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_stonecutting": {
-    "criteria": {
-      "has_item": "2024-12-31 06:11:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2024-12-31 06:17:23 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/gravel_bricks/gravel_brick_wall": {
-    "criteria": {
-      "has_item": "2024-12-31 06:17:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-31 06:30:36 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/flint": {
-    "criteria": {
-      "has_item": "2024-12-31 06:17:23 +0000"
     },
     "done": true
   },
