@@ -2719,6 +2719,8 @@
   "vinery:main/vineyard_visionary": {
     "criteria": {
       "vinery:jungle_grapes_red": "2024-12-31 02:36:30 +0000",
+      "vinery:savanna_grapes_white": "2024-12-31 09:28:39 +0000",
+      "vinery:white_grape": "2024-12-31 09:28:39 +0000",
       "vinery:jungle_grapes_white": "2024-12-31 02:33:43 +0000"
     },
     "done": false
@@ -3119,6 +3121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-31 09:25:28 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/glow_ink_sac": {
     "criteria": {
       "has_item": "2024-12-31 08:36:13 +0000"
@@ -3166,6 +3174,13 @@
       "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
     },
     "done": true
+  },
+  "vinery:main/grape_picker": {
+    "criteria": {
+      "vinery:savanna_grapes_white": "2024-12-31 09:28:39 +0000",
+      "vinery:white_grape": "2024-12-31 09:28:39 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
@@ -3506,6 +3521,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/overgrown_lattices": {
+    "criteria": {
+      "use_grape_seed": "2024-12-31 09:11:42 +0000"
     },
     "done": true
   },
