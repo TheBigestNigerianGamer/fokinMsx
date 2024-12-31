@@ -2963,6 +2963,12 @@
     },
     "done": true
   },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2024-12-31 06:30:36 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab": {
     "criteria": {
       "has_item": "2024-12-31 06:11:04 +0000"
@@ -2978,6 +2984,18 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_stonecutting": {
     "criteria": {
       "has_item": "2024-12-31 06:11:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-31 06:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-31 06:30:36 +0000"
     },
     "done": true
   },
@@ -3023,6 +3041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-31 06:30:36 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/gravel_bricks/gravel_brick_stairs": {
     "criteria": {
       "has_item": "2024-12-31 06:17:33 +0000"
@@ -3038,6 +3062,18 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-31 06:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-31 06:30:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2024-12-31 06:30:36 +0000"
     },
     "done": true
   },
@@ -3065,9 +3101,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-31 06:30:36 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/flint": {
     "criteria": {
       "has_item": "2024-12-31 06:17:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-31 06:30:36 +0000"
     },
     "done": true
   },
