@@ -1135,3 +1135,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [02:38:46] [Server thread/INFO]: [Yumalala: Teleported Yumalala to 0.500000, 80.000000, 0.500000]
 [02:41:28] [Server thread/INFO]: Yumalala has made the advancement [Wild Harvest]
 [02:47:07] [Server thread/INFO]: Yumalala has made the advancement [Juicy Success]
+[02:59:16] [Server thread/INFO]: Yumalala lost connection: Timed out
+[02:59:16] [Server thread/INFO]: Yumalala left the game
