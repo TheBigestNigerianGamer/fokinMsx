@@ -3443,6 +3443,12 @@
     },
     "done": true
   },
+  "vinery:main/sowing_the_future": {
+    "criteria": {
+      "use_grape_seed": "2024-12-31 08:43:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
