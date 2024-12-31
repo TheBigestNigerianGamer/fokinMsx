@@ -3461,6 +3461,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/coal": {
+    "criteria": {
+      "has_item": "2024-12-31 08:51:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-31 08:36:14 +0000"
