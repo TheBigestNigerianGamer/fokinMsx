@@ -2339,6 +2339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:23:37 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/acacia_wine_rack_small": {
     "criteria": {
       "has_acacia_planks": "2024-12-31 01:13:44 +0000"
@@ -2351,15 +2357,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:23:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2024-12-31 02:15:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2024-12-31 01:13:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:23:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/juice_it_up": {
+    "criteria": {
+      "grapevine_pot": "2024-12-31 02:14:23 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_the_recipe": "2024-12-31 02:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:23:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/mashy_success": {
+    "criteria": {
+      "apple_mash": "2024-12-31 02:16:04 +0000"
+    },
+    "done": true
+  },
   "vinery:main/fruits_of_the_field": {
     "criteria": {
       "fruits_of_the_field": "2024-12-31 01:54:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-31 02:22:54 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/the_first_press": {
+    "criteria": {
+      "apple_press": "2024-12-31 02:15:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:23:37 +0000"
     },
     "done": true
   },
@@ -2417,15 +2483,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-31 02:22:54 +0000"
+    },
+    "done": true
+  },
   "spelunkery:spelunkery/every_fungus": {
     "criteria": {
       "brown_mushroom": "2024-12-31 01:13:46 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:23:37 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/diamond": {
     "criteria": {
       "has_item": "2024-12-31 01:12:39 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_press": {
+    "criteria": {
+      "has_iron_trapdoor": "2024-12-31 02:15:02 +0000"
     },
     "done": true
   },
@@ -2441,9 +2525,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-31 02:23:37 +0000"
+    },
+    "done": true
+  },
   "spelunkery:spelunkery/rough_gem": {
     "criteria": {
       "item": "2024-12-31 01:46:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-31 02:15:21 +0000"
     },
     "done": true
   },
@@ -2456,6 +2564,12 @@
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2024-12-31 01:13:46 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/the_magic_of_the_barrel": {
+    "criteria": {
+      "fermentation_barrel": "2024-12-31 02:15:58 +0000"
     },
     "done": true
   },
@@ -2474,6 +2588,12 @@
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-12-31 01:13:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-31 02:15:21 +0000"
     },
     "done": true
   },
