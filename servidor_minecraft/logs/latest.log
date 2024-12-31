@@ -1072,3 +1072,5 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [08:01:45] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
 [08:08:33] [Server thread/INFO]: Yumalala has made the advancement [What a Deal!]
 [08:08:51] [Server thread/INFO]: Yumalala has made the advancement [Cherry Picker]
+[08:38:30] [Server thread/INFO]: Yumalala was slain by Zombie
+[08:38:52] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -261, 88, -352, minecraft:overworld
