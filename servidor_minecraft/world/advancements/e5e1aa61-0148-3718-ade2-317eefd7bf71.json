@@ -2696,6 +2696,12 @@
     },
     "done": true
   },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-31 02:44:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-31 01:50:15 +0000"
@@ -2707,6 +2713,12 @@
       "has_item": "2024-12-31 02:22:54 +0000"
     },
     "done": true
+  },
+  "vinery:main/nectar_of_life": {
+    "criteria": {
+      "vinery:red_jungle_grapejuice": "2024-12-31 02:47:07 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
@@ -2720,6 +2732,12 @@
       "vinery:jungle_grapes_white": "2024-12-31 02:33:43 +0000"
     },
     "done": false
+  },
+  "vinery:main/juicy_success": {
+    "criteria": {
+      "have_any_juice": "2024-12-31 02:47:07 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
