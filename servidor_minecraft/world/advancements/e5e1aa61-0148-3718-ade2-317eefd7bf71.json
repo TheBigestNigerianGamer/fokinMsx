@@ -3452,6 +3452,12 @@
     },
     "done": true
   },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2024-12-31 09:32:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-31 08:36:14 +0000"
@@ -3671,6 +3677,18 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2024-12-31 09:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-31 09:32:27 +0000"
     },
     "done": true
   },

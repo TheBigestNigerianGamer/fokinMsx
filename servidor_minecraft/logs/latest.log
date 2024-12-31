@@ -1126,3 +1126,5 @@ Caused by: java.lang.IndexOutOfBoundsException: index: 3, length: 42 (expected: 
 	... 29 more
 [09:11:42] [Server thread/INFO]: Yumalala has made the advancement [Overgrown Lattices]
 [09:29:57] [Server thread/WARN]: Yumalala moved too quickly! -8.045134454708545,3.2052200233268735,-5.71099906444033
+[09:32:19] [Server thread/INFO]: Yumalala has made the advancement [Left hanging]
+[09:33:51] [Server thread/WARN]: Yumalala moved too quickly! 565.7702807146298,7.0,2199.430136264537
