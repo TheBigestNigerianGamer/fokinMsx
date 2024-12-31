@@ -2375,9 +2375,21 @@
     },
     "done": true
   },
+  "spelunkery:recipes/rough_lazurite": {
+    "criteria": {
+      "has_item": "2024-12-31 01:46:25 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grass_slab": {
     "criteria": {
       "has_grass_block": "2024-12-31 01:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-31 01:50:15 +0000"
     },
     "done": true
   },
@@ -2390,6 +2402,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2024-12-31 01:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-31 01:50:15 +0000"
     },
     "done": true
   },
@@ -2414,6 +2432,18 @@
   "beautify:frames": {
     "criteria": {
       "requirement": "2024-12-31 01:13:44 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/rough_gem": {
+    "criteria": {
+      "item": "2024-12-31 01:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-31 01:50:15 +0000"
     },
     "done": true
   },

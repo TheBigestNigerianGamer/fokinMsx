@@ -1118,3 +1118,6 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [01:33:37] [Server thread/INFO]: waos223 was blown up by Creeper
 [01:34:03] [Server thread/INFO]: waos223 claimed a grave belonging to waos223 at -258, 59, -454, minecraft:overworld
 [01:38:12] [Server thread/INFO]: Yumalala has made the advancement [Forbidden Fruit]
+[01:46:19] [Server thread/INFO]: waos223 lost connection: Timed out
+[01:46:19] [Server thread/INFO]: waos223 left the game
+[01:46:25] [Server thread/INFO]: Yumalala has made the advancement [That's Rough, Buddy]
