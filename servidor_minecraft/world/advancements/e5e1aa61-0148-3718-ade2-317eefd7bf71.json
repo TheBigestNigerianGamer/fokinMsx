@@ -3121,9 +3121,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_gold_block": "2024-12-31 09:25:28 +0000"
+      "traded": "2024-12-31 08:08:33 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/cherry_picker": {
+    "criteria": {
+      "cherry": "2024-12-31 08:08:51 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_wood": {
+    "criteria": {
+      "has_cherry_wood": "2024-12-31 08:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-31 08:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-31 08:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-12-31 08:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-12-31 08:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-31 08:10:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-31 08:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-12-31 08:10:09 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/jungle_table": {
+    "criteria": {
+      "has_jungle": "2024-12-31 08:10:09 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/jungle_wine_rack_small": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-31 08:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-12-31 08:10:09 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/jungle_wine_rack_big": {
+    "criteria": {
+      "has_jungle_planks": "2024-12-31 08:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-31 08:10:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-31 08:10:09 +0000"
     },
     "done": true
   },
@@ -3133,27 +3223,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
     },
     "done": true
   },
@@ -3163,34 +3235,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2024-12-31 08:36:14 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
     },
     "done": true
   },
-  "vinery:main/grape_picker": {
-    "criteria": {
-      "vinery:savanna_grapes_white": "2024-12-31 09:28:39 +0000",
-      "vinery:white_grape": "2024-12-31 09:28:39 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/raw_iron": {
-    "criteria": {
-      "has_item": "2024-12-31 08:36:14 +0000"
     },
     "done": true
   },
@@ -3218,30 +3271,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-31 08:10:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-31 08:36:13 +0000"
@@ -3260,33 +3289,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-31 08:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-31 08:36:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_sign": {
-    "criteria": {
-      "has_planks": "2024-12-31 08:10:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_door": {
-    "criteria": {
-      "has_planks": "2024-12-31 08:10:09 +0000"
     },
     "done": true
   },
@@ -3302,45 +3307,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jungle_fence": {
-    "criteria": {
-      "has_planks": "2024-12-31 08:10:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-31 08:36:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
     },
     "done": true
   },
@@ -3359,24 +3328,6 @@
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/jungle_window": {
-    "criteria": {
-      "has_ingredient": "2024-12-31 08:10:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_slab": {
-    "criteria": {
-      "has_planks": "2024-12-31 08:10:09 +0000"
     },
     "done": true
   },
@@ -3422,21 +3373,9 @@
     },
     "done": true
   },
-  "twigs:recipes/tables/jungle_table": {
-    "criteria": {
-      "has_jungle": "2024-12-31 08:10:09 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/jungle_wine_rack_small": {
-    "criteria": {
-      "has_jungle_planks": "2024-12-31 08:10:09 +0000"
     },
     "done": true
   },
@@ -3452,21 +3391,183 @@
     },
     "done": true
   },
-  "beautify:progression/hanging_pot": {
+  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
-      "obtain": "2024-12-31 09:32:19 +0000"
+      "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-31 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2024-12-31 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2024-12-31 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-31 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2024-12-31 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-31 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-31 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-31 08:36:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_iron": {
+    "criteria": {
+      "has_item": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-31 08:36:14 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/sowing_the_future": {
-    "criteria": {
-      "use_grape_seed": "2024-12-31 08:43:45 +0000"
     },
     "done": true
   },
@@ -3482,75 +3583,15 @@
     },
     "done": true
   },
-  "spelunkery:recipes/coal": {
-    "criteria": {
-      "has_item": "2024-12-31 08:51:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-31 08:36:14 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2024-12-31 08:10:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-31 08:08:33 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/jungle_wine_rack_big": {
-    "criteria": {
-      "has_jungle_planks": "2024-12-31 08:10:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-31 08:36:14 +0000"
-    },
-    "done": true
-  },
-  "vinery:main/overgrown_lattices": {
-    "criteria": {
-      "use_grape_seed": "2024-12-31 09:11:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-31 08:10:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
     },
     "done": true
   },
@@ -3572,39 +3613,9 @@
     },
     "done": true
   },
-  "vinery:recipes/dark_cherry_wood": {
-    "criteria": {
-      "has_cherry_wood": "2024-12-31 08:09:08 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/squid": {
-    "criteria": {
-      "has_ink_sac": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/straw_hat": {
-    "criteria": {
-      "has_wheat": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-31 08:36:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
     },
     "done": true
   },
@@ -3632,42 +3643,6 @@
     },
     "done": true
   },
-  "vinery:main/cherry_picker": {
-    "criteria": {
-      "cherry": "2024-12-31 08:08:51 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/jungle_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-31 08:10:09 +0000"
-    },
-    "done": true
-  },
-  "beautify:candelabras": {
-    "criteria": {
-      "requirement": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-31 08:36:14 +0000"
@@ -3680,6 +3655,43 @@
     },
     "done": true
   },
+  "vinery:main/sowing_the_future": {
+    "criteria": {
+      "use_grape_seed": "2024-12-31 08:43:45 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/coal": {
+    "criteria": {
+      "has_item": "2024-12-31 08:51:57 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/overgrown_lattices": {
+    "criteria": {
+      "use_grape_seed": "2024-12-31 09:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-31 09:25:28 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/grape_picker": {
+    "criteria": {
+      "vinery:savanna_grapes_white": "2024-12-31 09:28:39 +0000",
+      "vinery:white_grape": "2024-12-31 09:28:39 +0000"
+    },
+    "done": false
+  },
+  "beautify:progression/hanging_pot": {
+    "criteria": {
+      "obtain": "2024-12-31 09:32:19 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
     "criteria": {
       "has_item": "2024-12-31 09:32:19 +0000"
@@ -3689,18 +3701,6 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-31 09:32:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2024-12-31 08:36:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
-    "criteria": {
-      "has_diorite": "2024-12-31 08:36:13 +0000"
     },
     "done": true
   },
