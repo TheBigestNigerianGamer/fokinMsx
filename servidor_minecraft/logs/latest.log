@@ -1066,3 +1066,8 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [12:50:57] [Server thread/INFO]: Start loading plugin from HT's TreeChop
 [12:50:57] [Server thread/INFO]: Reading config file...
 [12:50:57] [Server thread/WARN]: The following mission types are available but ignored due to having a weight of 0 or being absent in the config file: [cut, mill, minecart]
+[13:00:36] [Server thread/INFO]: Yumalala[/[0:0:0:0:0:0:0:1%0]:50846] logged in with entity id 70 at (-261.7537767448231, 88.0, -359.21987099520595)
+[13:00:36] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[13:00:36] [Server thread/INFO]: Loading config from file...
+[13:00:37] [Server thread/INFO]: Yumalala joined the game
+[13:00:39] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
