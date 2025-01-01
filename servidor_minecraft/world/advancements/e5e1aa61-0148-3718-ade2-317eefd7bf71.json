@@ -3776,6 +3776,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/cinnabar_block": {
+    "criteria": {
+      "has_item": "2025-01-01 15:01:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-01-01 14:57:21 +0000"
