@@ -1073,3 +1073,12 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [03:22:48] [Server thread/INFO]: Loading config from file...
 [03:22:48] [Server thread/INFO]: Yumalala joined the game
 [03:22:50] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[04:25:12] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[04:25:17] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[04:25:23] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[04:25:26] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[04:26:11] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[04:26:15] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[04:26:24] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[04:26:27] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[04:26:38] [Server thread/INFO]: Yumalala fell from a high place
