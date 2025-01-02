@@ -4840,5 +4840,23 @@
     },
     "done": false
   },
+  "create:recipes/misc/smelting/glass_from_tiled_glass": {
+    "criteria": {
+      "has_item": "2025-01-02 02:11:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 02:11:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_pane_from_tiled_glass_pane": {
+    "criteria": {
+      "has_item": "2025-01-02 02:11:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

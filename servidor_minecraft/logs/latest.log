@@ -1124,3 +1124,4 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [01:39:41] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player AKUSGOD. Claiming: GRAVE / Robbing: INVENTORY
 [01:56:00] [Server thread/INFO]: Yumalala was shot by Skeleton
 [01:56:22] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -315, 69, -295, minecraft:overworld
+[02:21:02] [Server thread/INFO]: [Yumalala: Teleported Yumalala to AKUSGOD]
