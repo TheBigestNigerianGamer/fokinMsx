@@ -1093,3 +1093,8 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [01:02:07] [Server thread/INFO]: AKUSGOD joined the game
 [01:02:07] [Server thread/INFO]: AKUSGOD has made the advancement [The Noble Drop]
 [01:02:07] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player AKUSGOD. Claiming: GRAVE / Robbing: INVENTORY
+[01:11:43] [Server thread/INFO]: Yumalala has made the advancement [The Parrots and the Bats]
+[01:18:31] [Server thread/INFO]: Yumalala was shot by Skeleton
+[01:19:20] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -302, 71, -461, minecraft:overworld
+[01:19:45] [Server thread/INFO]: Yumalala was shot by Skeleton
+[01:20:08] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -299, 65, -451, minecraft:overworld
