@@ -1160,3 +1160,5 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [02:48:47] [Server thread/INFO]: Yumalala left the game
 [02:48:50] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[07:12:19] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
