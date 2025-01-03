@@ -1075,3 +1075,10 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 io.netty.handler.timeout.ReadTimeoutException: null
 [17:42:31] [Server thread/INFO]: Yumalala lost connection: Timed out
 [17:42:31] [Server thread/INFO]: Yumalala left the game
+[18:11:43] [Server thread/INFO]: Yumalala[/[0:0:0:0:0:0:0:1%0]:57872] logged in with entity id 524 at (-321.831436835645, 68.0, -286.58652302598)
+[18:11:43] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[18:11:43] [Server thread/INFO]: Loading config from file...
+[18:11:43] [Server thread/INFO]: Yumalala joined the game
+[18:11:43] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[18:12:43] [Server thread/INFO]: Yumalala lost connection: Timed out
+[18:12:43] [Server thread/INFO]: Yumalala left the game
