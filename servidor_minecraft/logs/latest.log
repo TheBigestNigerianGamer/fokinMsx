@@ -1148,3 +1148,8 @@ Caused by: java.lang.IndexOutOfBoundsException: index: 3, length: 42 (expected: 
 [21:11:30] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
 [21:11:56] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[21:23:42] [Server thread/INFO]: Yumalala drowned
+[21:23:49] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[21:24:00] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[21:24:01] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -268, 61, -527, minecraft:overworld
+[21:24:16] [Server thread/INFO]: [Yumalala: Gave 8 experience levels to Yumalala]
