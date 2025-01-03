@@ -1086,3 +1086,5 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [14:59:32] [Server thread/INFO]: Loading config from file...
 [14:59:32] [Server thread/INFO]: Yumalala joined the game
 [14:59:34] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[15:57:51] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
