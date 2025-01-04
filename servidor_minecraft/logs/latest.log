@@ -1,12 +1,12 @@
-[20:36:40] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[20:36:41] [main/WARN]: Warnings were found!
+[22:43:49] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[22:43:50] [main/WARN]: Warnings were found!
  - Mod 'SimplySkills' (simplyskills) 1.7.1+1.20.1 recommends version 1.0.2+1.20.1 or later of paladins, which is missing!
 	 - You should install version 1.0.2+1.20.1 or later of paladins for the optimal experience.
  - Mod 'SimplySkills' (simplyskills) 1.7.1+1.20.1 recommends version 1.4.2+1.20.1 or later of amethyst_core, which is missing!
 	 - You should install version 1.4.2+1.20.1 or later of amethyst_core for the optimal experience.
  - Mod 'Simply Swords' (simplyswords) 1.56.0-1.20.1 recommends version 1.7.2 or later of bettercombat, which is missing!
 	 - You should install version 1.7.2 or later of bettercombat for the optimal experience.
-[20:36:41] [main/INFO]: Loading 165 mods:
+[22:43:50] [main/INFO]: Loading 165 mods:
 	- appleskin 2.5.1+mc1.20
 	- architectury 9.2.14
 	- areas 6.0
@@ -215,90 +215,90 @@
 	   \-- libgui 8.1.1+1.20.1
 	        |-- jankson 6.0.0+j1.2.3
 	        \-- libninepatch 1.2.0
-[20:36:41] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fokinMsx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[20:36:41] [main/INFO]: Compatibility level set to JAVA_17
-[20:36:42] [main/WARN]: Reference map 'chisels-and-bits-fabric-refmap.json' for chiselsandbits.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:36:42] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:36:42] [main/WARN]: Reference map 'Modern-Dynamics-refmap.json' for moderndynamics.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:36:42] [main/INFO]: Loaded configuration file for ModernFix 5.20.0+mc1.20.1: 63 options available, 0 override(s) found
-[20:36:42] [main/INFO]: Applying Nashorn fix
-[20:36:42] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[20:36:42] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
-[20:36:42] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
-[20:36:42] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
-[20:36:42] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
-[20:36:42] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[20:36:42] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[20:36:42] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
-[20:36:42] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
-[20:36:42] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
-[20:36:43] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[20:36:43] [main/WARN]: Error loading class: net/minecraft/class_3675$class_306 (java.lang.ClassNotFoundException: net/minecraft/class_3675$class_306)
-[20:36:43] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[20:36:48] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[20:36:49] [main/INFO]: Vanilla bootstrap took 5400 milliseconds
-[20:36:49] [main/INFO]: [Collective] JSON file 'area_names.json' generation requested by mod 'areas'.
-[20:36:49] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[20:36:49] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[20:36:49] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[20:36:49] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[20:36:49] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[20:36:49] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[20:36:49] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[20:36:49] [main/INFO]: Common init
-[20:36:50] [main/INFO]: Initialized chisels-and-bits for Fabric
-[20:36:50] [main/INFO]: Loading Collective version 7.87.
-[20:36:50] [main/INFO]: fabric loader environment detected
-[20:36:52] [main/INFO]: Initializing CreateMoreAdditionsMod
-[20:36:52] [main/INFO]: Bypassed Mojang DFU
-[20:36:52] [main/INFO]: Instantiating Mojang DFU
-[20:36:53] [main/ERROR]: No data fixer registered for season_sensor
-[20:36:53] [main/INFO]: Initializing ServerSide Packet Registries
-[20:36:53] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[20:36:53] [main/INFO]: [KONKRETE] Successfully initialized!
-[20:36:53] [main/INFO]: [KONKRETE] Server-side libs ready to use!
-[20:36:53] [main/INFO]: Successfully loaded Modern Dynamics!
-[20:36:53] [main/INFO]: Create: Numismatics 1.0.10+fabric-mc1.20.1 initializing! Create version: 0.5.1j on platform: FABRIC
-[20:36:53] [main/INFO]: Registering items for Create: Numismatics
-[20:36:53] [main/INFO]: Registering blocks for Create: Numismatics
-[20:36:53] [main/INFO]: Initialized Saecularia-Caudices
-[20:36:53] [main/INFO]: Loaded block entity configuration.
-[20:36:53] [main/INFO]: Loaded block configuration.
-[20:36:53] [main/INFO]: Loaded chisel mode group configuration.
-[20:36:54] [main/INFO]: Loaded chisel mode configuration.
-[20:36:54] [main/INFO]: Loaded container type configuration.
-[20:36:54] [main/INFO]: Loaded item group configuration.
-[20:36:54] [main/INFO]: Loaded item configuration.
-[20:36:54] [main/INFO]: Loaded metadata key configuration.
-[20:36:54] [main/INFO]: Loaded model property configuration.
-[20:36:54] [main/INFO]: Loaded modification operation configuration.
-[20:36:54] [main/INFO]: Loaded modification operation group configuration.
-[20:36:54] [main/INFO]: Loaded pattern placement type configuration.
-[20:36:54] [main/INFO]: Loaded recipe serializer configuration.
-[20:36:54] [main/INFO]: Loaded tag configuration.
-[20:36:54] [main/INFO]: Registering recipe types.
-[20:36:54] [main/INFO]: Registering event handlers
-[20:36:57] [main/INFO]: Initialized scena-fabric
-[20:36:57] [main/INFO]: Registering Items for simplyskills
-[20:36:57] [main/INFO]: Registering Entities for simplyskills
-[20:36:57] [main/INFO]: [STDOUT]: /workspaces/fokinMsx/servidor_minecraft/config
-[20:36:58] [main/INFO]: Loaded config spelunkery-common.json
-[20:36:58] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[20:36:58] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[20:36:58] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[20:36:58] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[20:37:00] [main/INFO]: Initialized block sets in 15ms
-[20:37:00] [main/INFO]: Initialized color sets in 42ms
-[20:37:00] [main/INFO]: Finished mod setup in: [0] ms
-[20:37:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:37:01] [main/INFO]: Generated runtime SERVER_DATA for pack Spelunkery Generated Pack (spelunkery) in: 30 ms
-[20:37:01] [main/WARN]: Adding spell_power:fire to saved/remote registry.
-[20:37:01] [main/WARN]: Adding spell_power:frost to saved/remote registry.
-[20:37:01] [main/WARN]: Adding spell_power:arcane to saved/remote registry.
-[20:37:01] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[20:37:02] [main/INFO]: Adding serverside commands..
-[20:37:02] [Worker-Main-2/ERROR]: Couldn't load tag create_more_additions:repair_electrum as it is missing following references: createaddition:electrum_ingot (from fabric)
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/fence
+[22:43:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/fokinMsx/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:43:50] [main/INFO]: Compatibility level set to JAVA_17
+[22:43:51] [main/WARN]: Reference map 'chisels-and-bits-fabric-refmap.json' for chiselsandbits.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:43:51] [main/WARN]: Reference map 'coroutil.refmap.json' for coroutil_fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:43:51] [main/WARN]: Reference map 'Modern-Dynamics-refmap.json' for moderndynamics.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:43:51] [main/INFO]: Loaded configuration file for ModernFix 5.20.0+mc1.20.1: 63 options available, 0 override(s) found
+[22:43:51] [main/INFO]: Applying Nashorn fix
+[22:43:51] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:43:51] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[22:43:51] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[22:43:51] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[22:43:51] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[22:43:51] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[22:43:51] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[22:43:51] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[22:43:51] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[22:43:52] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
+[22:43:52] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[22:43:52] [main/WARN]: Error loading class: net/minecraft/class_3675$class_306 (java.lang.ClassNotFoundException: net/minecraft/class_3675$class_306)
+[22:43:52] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:43:57] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[22:43:57] [main/INFO]: Vanilla bootstrap took 4533 milliseconds
+[22:43:57] [main/INFO]: [Collective] JSON file 'area_names.json' generation requested by mod 'areas'.
+[22:43:58] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[22:43:58] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[22:43:58] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[22:43:58] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[22:43:58] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[22:43:58] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[22:43:58] [main/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[22:43:58] [main/INFO]: Common init
+[22:43:58] [main/INFO]: Initialized chisels-and-bits for Fabric
+[22:43:58] [main/INFO]: Loading Collective version 7.87.
+[22:43:58] [main/INFO]: fabric loader environment detected
+[22:44:00] [main/INFO]: Initializing CreateMoreAdditionsMod
+[22:44:00] [main/INFO]: Bypassed Mojang DFU
+[22:44:00] [main/INFO]: Instantiating Mojang DFU
+[22:44:01] [main/ERROR]: No data fixer registered for season_sensor
+[22:44:01] [main/INFO]: Initializing ServerSide Packet Registries
+[22:44:01] [main/WARN]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[22:44:01] [main/INFO]: [KONKRETE] Successfully initialized!
+[22:44:01] [main/INFO]: [KONKRETE] Server-side libs ready to use!
+[22:44:01] [main/INFO]: Successfully loaded Modern Dynamics!
+[22:44:01] [main/INFO]: Create: Numismatics 1.0.10+fabric-mc1.20.1 initializing! Create version: 0.5.1j on platform: FABRIC
+[22:44:01] [main/INFO]: Registering items for Create: Numismatics
+[22:44:01] [main/INFO]: Registering blocks for Create: Numismatics
+[22:44:02] [main/INFO]: Initialized Saecularia-Caudices
+[22:44:02] [main/INFO]: Loaded block entity configuration.
+[22:44:02] [main/INFO]: Loaded block configuration.
+[22:44:02] [main/INFO]: Loaded chisel mode group configuration.
+[22:44:02] [main/INFO]: Loaded chisel mode configuration.
+[22:44:02] [main/INFO]: Loaded container type configuration.
+[22:44:02] [main/INFO]: Loaded item group configuration.
+[22:44:02] [main/INFO]: Loaded item configuration.
+[22:44:02] [main/INFO]: Loaded metadata key configuration.
+[22:44:02] [main/INFO]: Loaded model property configuration.
+[22:44:02] [main/INFO]: Loaded modification operation configuration.
+[22:44:02] [main/INFO]: Loaded modification operation group configuration.
+[22:44:02] [main/INFO]: Loaded pattern placement type configuration.
+[22:44:02] [main/INFO]: Loaded recipe serializer configuration.
+[22:44:02] [main/INFO]: Loaded tag configuration.
+[22:44:02] [main/INFO]: Registering recipe types.
+[22:44:02] [main/INFO]: Registering event handlers
+[22:44:06] [main/INFO]: Initialized scena-fabric
+[22:44:06] [main/INFO]: Registering Items for simplyskills
+[22:44:06] [main/INFO]: Registering Entities for simplyskills
+[22:44:06] [main/INFO]: [STDOUT]: /workspaces/fokinMsx/servidor_minecraft/config
+[22:44:06] [main/INFO]: Loaded config spelunkery-common.json
+[22:44:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[22:44:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[22:44:06] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[22:44:06] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[22:44:09] [main/INFO]: Initialized block sets in 14ms
+[22:44:09] [main/INFO]: Initialized color sets in 46ms
+[22:44:09] [main/INFO]: Finished mod setup in: [0] ms
+[22:44:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:44:09] [main/INFO]: Generated runtime SERVER_DATA for pack Spelunkery Generated Pack (spelunkery) in: 23 ms
+[22:44:10] [main/WARN]: Adding spell_power:fire to saved/remote registry.
+[22:44:10] [main/WARN]: Adding spell_power:frost to saved/remote registry.
+[22:44:10] [main/WARN]: Adding spell_power:arcane to saved/remote registry.
+[22:44:10] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[22:44:11] [main/INFO]: Adding serverside commands..
+[22:44:11] [Worker-Main-3/ERROR]: Couldn't load tag create_more_additions:repair_electrum as it is missing following references: createaddition:electrum_ingot (from fabric)
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/fence
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -323,7 +323,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe farmersdelight:barbecue_stick
+[22:44:14] [main/ERROR]: Parsing error loading recipe farmersdelight:barbecue_stick
 com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:barbecue_stick'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -346,7 +346,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:barbecue_stick
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe farmersdelight:stuffed_potato
+[22:44:14] [main/ERROR]: Parsing error loading recipe farmersdelight:stuffed_potato
 com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:stuffed_potato'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -369,7 +369,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:stuffed_potato
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/trapdoor
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/trapdoor
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -394,7 +394,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/fence_gate
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/fence_gate
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -419,7 +419,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_boots
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_boots
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -444,7 +444,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe farmersdelight:cooking/dumplings
+[22:44:14] [main/ERROR]: Parsing error loading recipe farmersdelight:cooking/dumplings
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -463,7 +463,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe farmersdelight:cooking/vegetable_noodles
+[22:44:14] [main/ERROR]: Parsing error loading recipe farmersdelight:cooking/vegetable_noodles
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -482,7 +482,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/pressure_plate
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/pressure_plate
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -507,7 +507,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_leggings
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_leggings
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -532,7 +532,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe farmersdelight:cooking/mushroom_rice
+[22:44:14] [main/ERROR]: Parsing error loading recipe farmersdelight:cooking/mushroom_rice
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -551,7 +551,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_helmet
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_helmet
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -576,7 +576,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_axe
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_axe
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -601,7 +601,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/door
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/door
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -626,7 +626,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/block
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/block
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -651,7 +651,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/stairs
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/stairs
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -676,7 +676,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/slab
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/slab
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -701,7 +701,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe farmersdelight:cooking/noodle_soup
+[22:44:14] [main/ERROR]: Parsing error loading recipe farmersdelight:cooking/noodle_soup
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -720,7 +720,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_sword
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_sword
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -745,7 +745,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/button
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/button
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -770,7 +770,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_hoe
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_hoe
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -795,7 +795,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_shovel
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_shovel
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -820,7 +820,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe farmersdelight:cooking/bone_broth
+[22:44:14] [main/ERROR]: Parsing error loading recipe farmersdelight:cooking/bone_broth
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -839,7 +839,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/wall
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/building/wall
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -864,7 +864,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_pickaxe
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_pickaxe
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -889,7 +889,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_chestplate
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_chestplate
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -914,7 +914,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:silver/crafting_ingot_from_block
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:silver/crafting_ingot_from_block
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:crafbronzeg_shapeless'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -933,7 +933,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe farmersdelight:hamburger
+[22:44:14] [main/ERROR]: Parsing error loading recipe farmersdelight:hamburger
 com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:beef_patty'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -969,7 +969,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:beef_patty'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe farmersdelight:shepherds_pie_block
+[22:44:14] [main/ERROR]: Parsing error loading recipe farmersdelight:shepherds_pie_block
 com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:shepherds_pie_block'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -992,7 +992,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:shepherds_pie_
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_jewel
+[22:44:14] [main/ERROR]: Parsing error loading recipe create_more_additions:electrum/electrum_jewel
 com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1018,138 +1018,56 @@ com.google.gson.JsonSyntaxException: Unknown item 'createaddition:electrum_ingot
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.3.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[20:37:05] [main/INFO]: Loaded 27 recipes
-[20:37:05] [main/ERROR]: Parsing error loading custom advancement rpg_series:rune_crafter: Expected item to be an item, was unknown string 'runes:crafting_altar'
-[20:37:05] [main/INFO]: Loaded 3287 advancements
-[20:37:05] [main/INFO]: Trying to load unloaded files from: config/bountiful/bounty_pools
-[20:37:05] [main/INFO]: Trying to load unloaded files from: config/bountiful/bounty_decrees
-[20:37:05] [main/INFO]: Reloading grave shape (server)
-[20:37:05] [main/INFO]: Grave model and shape reload successful (server)
-[20:37:05] [main/INFO]: Reloading YIGD graveyard data (server)
-[20:37:05] [main/INFO]: Graveyard data successfully reloaded (server)
-[20:37:05] [main/INFO]: Reloading YIGD grave area overrides (server)
-[20:37:05] [main/INFO]: Grave area overrides successfully reloaded (server)
-[20:37:05] [main/INFO]: Applied 1300 biome modifications to 63 of 64 new biomes in 20.92 ms
-[20:37:05] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: plains
-[20:37:05] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: savanna
-[20:37:05] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: snowy
-[20:37:05] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: taiga
-[20:37:05] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: desert
-[20:37:05] [Server thread/INFO]: [puffish_skills] Mod configuration loaded successfully!
-[20:37:06] [Server thread/WARN]: [puffish_skills] Data pack `simplyskills` loaded successfully with warning(s):
+[22:44:14] [main/INFO]: Loaded 27 recipes
+[22:44:14] [main/ERROR]: Parsing error loading custom advancement rpg_series:rune_crafter: Expected item to be an item, was unknown string 'runes:crafting_altar'
+[22:44:14] [main/INFO]: Loaded 3287 advancements
+[22:44:14] [main/INFO]: Trying to load unloaded files from: config/bountiful/bounty_pools
+[22:44:14] [main/INFO]: Trying to load unloaded files from: config/bountiful/bounty_decrees
+[22:44:14] [main/INFO]: Reloading grave shape (server)
+[22:44:14] [main/INFO]: Grave model and shape reload successful (server)
+[22:44:14] [main/INFO]: Reloading YIGD graveyard data (server)
+[22:44:14] [main/INFO]: Graveyard data successfully reloaded (server)
+[22:44:14] [main/INFO]: Reloading YIGD grave area overrides (server)
+[22:44:14] [main/INFO]: Grave area overrides successfully reloaded (server)
+[22:44:14] [main/INFO]: Applied 1300 biome modifications to 63 of 64 new biomes in 23.50 ms
+[22:44:14] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: plains
+[22:44:14] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: savanna
+[22:44:14] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: snowy
+[22:44:14] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: taiga
+[22:44:14] [Server thread/INFO]: Registering Bounty Board Jigsaw Piece for Village Type: desert
+[22:44:14] [Server thread/INFO]: [puffish_skills] Mod configuration loaded successfully!
+[22:44:15] [Server thread/WARN]: [puffish_skills] Data pack `simplyskills` loaded successfully with warning(s):
 Data pack `simplyskills` uses outdated version. Please update the configuration version to 3 at `version` at `simplyskills:puffish_skills/config.json`
-[20:37:06] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): 200275 bytes (in 21 string chunks with the size of 10000)
-[20:37:06] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[20:37:06] [Server thread/INFO]: Loading properties
-[20:37:06] [Server thread/INFO]: Default game type: SURVIVAL
-[20:37:06] [Server thread/INFO]: Generating keypair
-[20:37:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:37:06] [Server thread/INFO]: Using epoll channel type
-[20:37:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:37:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:37:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:37:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:37:06] [Server thread/INFO]: Preparing level "world"
-[20:37:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:37:09] [Server thread/INFO]: Preparing spawn area: 0%
-[20:37:09] [Server thread/INFO]: Preparing spawn area: 0%
-[20:37:09] [Server thread/INFO]: Preparing spawn area: 0%
-[20:37:09] [Server thread/INFO]: Preparing spawn area: 0%
-[20:37:09] [Server thread/INFO]: Preparing spawn area: 0%
-[20:37:09] [Server thread/INFO]: Time elapsed: 2659 ms
-[20:37:09] [Server thread/INFO]: Done (3.043s)! For help, type "help"
-[20:37:09] [Server thread/WARN]: Dedicated server took 30.296 seconds to load
-[20:37:09] [Server thread/INFO]: Start loading plugin from Beautify
-[20:37:09] [Server thread/INFO]: Start loading plugin from Jade
-[20:37:09] [Server thread/INFO]: Start loading plugin from Jade
-[20:37:09] [Server thread/INFO]: Start loading plugin from Jade
-[20:37:09] [Server thread/INFO]: Start loading plugin from HT's TreeChop
-[20:37:09] [Server thread/INFO]: Reading config file...
-[20:37:09] [Server thread/WARN]: The following mission types are available but ignored due to having a weight of 0 or being absent in the config file: [cut, mill, minecart]
-[20:37:13] [Server thread/INFO]: Yumalala[/[0:0:0:0:0:0:0:1%0]:33640] logged in with entity id 98 at (-310.6888079552416, 70.0, -307.4548048378713)
-[20:37:13] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
-[20:37:13] [Server thread/INFO]: Loading config from file...
-[20:37:13] [Server thread/INFO]: Yumalala joined the game
-[20:37:14] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
-[20:45:59] [Server thread/INFO]: Yumalala lost connection: Timed out
-[20:45:59] [Server thread/INFO]: Yumalala left the game
-[20:52:03] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@4c26c693[id=<null>,name=Yumalala,properties={},legacy=false] (/[0:0:0:0:0:0:0:1%0]:44614): Took too long to log in
-[20:52:03] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[20:52:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@4c26c693[id=<null>,name=Yumalala,properties={},legacy=false] (/[0:0:0:0:0:0:0:1%0]:44614) lost connection: Took too long to log in
-[20:52:03] [Server thread/WARN]: handleDisconnection() called twice
-[20:52:19] [Server thread/INFO]: Yumalala[/[0:0:0:0:0:0:0:1%0]:45744] logged in with entity id 1476 at (-318.32019445579664, 70.0, -303.11764394461017)
-[20:52:19] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
-[20:52:19] [Server thread/INFO]: Loading config from file...
-[20:52:19] [Server thread/INFO]: Yumalala joined the game
-[20:52:22] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
-[20:54:49] [Server thread/INFO]: Yumalala lost connection: Timed out
-[20:54:49] [Server thread/INFO]: Yumalala left the game
-[20:58:19] [Server thread/INFO]: Yumalala[/[0:0:0:0:0:0:0:1%0]:59864] logged in with entity id 2137 at (-309.0659441957789, 69.9375, -319.5995811445348)
-[20:58:19] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
-[20:58:19] [Server thread/INFO]: Loading config from file...
-[20:58:19] [Server thread/INFO]: Yumalala joined the game
-[20:58:22] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
-[21:01:33] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: index: 3, length: 42 (expected: range(0, 3))
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-Caused by: java.lang.IndexOutOfBoundsException: index: 3, length: 42 (expected: range(0, 3))
-	at io.netty.buffer.AbstractByteBuf.checkRangeBounds(AbstractByteBuf.java:1390) ~[netty-buffer-4.1.82.Final.jar:?]
-	at io.netty.buffer.AbstractByteBuf.checkIndex0(AbstractByteBuf.java:1397) ~[netty-buffer-4.1.82.Final.jar:?]
-	at io.netty.buffer.AbstractByteBuf.checkIndex(AbstractByteBuf.java:1384) ~[netty-buffer-4.1.82.Final.jar:?]
-	at io.netty.buffer.UnsafeByteBufUtil.getBytes(UnsafeByteBufUtil.java:481) ~[netty-buffer-4.1.82.Final.jar:?]
-	at io.netty.buffer.PooledUnsafeDirectByteBuf.getBytes(PooledUnsafeDirectByteBuf.java:130) ~[netty-buffer-4.1.82.Final.jar:?]
-	at io.netty.buffer.ByteBufUtil.decodeString(ByteBufUtil.java:1270) ~[netty-buffer-4.1.82.Final.jar:?]
-	at io.netty.buffer.AbstractByteBuf.toString(AbstractByteBuf.java:1246) ~[netty-buffer-4.1.82.Final.jar:?]
-	at net.minecraft.class_2540.toString(class_2540.java:1728) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2540.method_10800(class_2540.java:691) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2889.<init>(class_2889.java:28) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:459) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
-	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
-	... 29 more
-[21:08:05] [Server thread/INFO]: Yumalala lost connection: Timed out
-[21:08:05] [Server thread/INFO]: Yumalala left the game
-[21:11:26] [Server thread/INFO]: Yumalala[/[0:0:0:0:0:0:0:1%0]:42884] logged in with entity id 4636 at (-264.9200021977197, 64.0, -530.7670729554816)
-[21:11:26] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
-[21:11:26] [Server thread/INFO]: Loading config from file...
-[21:11:26] [Server thread/INFO]: Yumalala joined the game
-[21:11:30] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
-[21:11:56] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[21:23:42] [Server thread/INFO]: Yumalala drowned
-[21:23:49] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
-[21:24:00] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
-[21:24:01] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -268, 61, -527, minecraft:overworld
-[21:24:16] [Server thread/INFO]: [Yumalala: Gave 8 experience levels to Yumalala]
+[22:44:15] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): 200275 bytes (in 21 string chunks with the size of 10000)
+[22:44:15] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[22:44:15] [Server thread/INFO]: Loading properties
+[22:44:15] [Server thread/INFO]: Default game type: SURVIVAL
+[22:44:15] [Server thread/INFO]: Generating keypair
+[22:44:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:44:15] [Server thread/INFO]: Using epoll channel type
+[22:44:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:44:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:44:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:44:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:44:15] [Server thread/INFO]: Preparing level "world"
+[22:44:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:44:17] [Server thread/INFO]: Preparing spawn area: 0%
+[22:44:17] [Server thread/INFO]: Preparing spawn area: 0%
+[22:44:17] [Server thread/INFO]: Preparing spawn area: 0%
+[22:44:17] [Server thread/INFO]: Preparing spawn area: 0%
+[22:44:17] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:44:18] [Server thread/INFO]: Time elapsed: 2275 ms
+[22:44:18] [Server thread/INFO]: Done (2.627s)! For help, type "help"
+[22:44:18] [Server thread/WARN]: Dedicated server took 29.624 seconds to load
+[22:44:18] [Server thread/INFO]: Start loading plugin from Beautify
+[22:44:18] [Server thread/INFO]: Start loading plugin from Jade
+[22:44:18] [Server thread/INFO]: Start loading plugin from Jade
+[22:44:18] [Server thread/INFO]: Start loading plugin from Jade
+[22:44:18] [Server thread/INFO]: Start loading plugin from HT's TreeChop
+[22:44:18] [Server thread/INFO]: Reading config file...
+[22:44:18] [Server thread/WARN]: The following mission types are available but ignored due to having a weight of 0 or being absent in the config file: [cut, mill, minecart]
+[22:45:54] [Server thread/INFO]: Yumalala[/[0:0:0:0:0:0:0:1%0]:33516] logged in with entity id 95 at (-262.55601671713447, 58.0, -520.496462979218)
+[22:45:54] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[22:45:54] [Server thread/INFO]: Loading config from file...
+[22:45:54] [Server thread/INFO]: Yumalala joined the game
+[22:45:57] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
