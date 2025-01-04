@@ -1073,3 +1073,5 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [22:45:57] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
 [22:55:58] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[23:44:17] [Server thread/INFO]: Yumalala fell from a high place
+[23:44:46] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -291, 27, -304, minecraft:overworld
