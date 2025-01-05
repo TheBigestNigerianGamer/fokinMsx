@@ -5201,6 +5201,12 @@
     },
     "done": true
   },
+  "spelunkery:spelunkery/nephrite_chunk": {
+    "criteria": {
+      "item": "2025-01-05 22:10:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 21:33:53 +0000"
@@ -5342,6 +5348,12 @@
   "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-01-05 21:33:53 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/nephrite_chunk": {
+    "criteria": {
+      "has_item": "2025-01-05 22:10:17 +0000"
     },
     "done": true
   },
