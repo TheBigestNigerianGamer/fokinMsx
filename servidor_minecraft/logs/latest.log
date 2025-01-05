@@ -1082,3 +1082,7 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [13:03:55] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
 [13:05:15] [Server thread/INFO]: Yumalala was slain by Zombie
 [13:06:39] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -215, -10, -413, minecraft:overworld
+[13:12:37] [Server thread/INFO]: Yumalala was shot by Skeleton
+[13:13:01] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[13:14:39] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[13:14:40] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -246, -21, -402, minecraft:overworld
