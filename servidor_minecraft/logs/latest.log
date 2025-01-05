@@ -1071,3 +1071,14 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [12:43:16] [Server thread/INFO]: Loading config from file...
 [12:43:16] [Server thread/INFO]: Yumalala joined the game
 [12:43:16] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[13:01:56] [Server thread/INFO]: Yumalala was doomed to fall by Creeper
+[13:03:06] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -187, -17, -392, minecraft:overworld
+[13:03:55] [Server thread/INFO]: Yumalala lost connection: You logged in from another location
+[13:03:55] [Server thread/INFO]: Yumalala left the game
+[13:03:55] [Server thread/INFO]: Yumalala[/[0:0:0:0:0:0:0:1%0]:56246] logged in with entity id 6048 at (-221.30000001192093, -7.0, -426.30000001192093)
+[13:03:55] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[13:03:55] [Server thread/INFO]: Loading config from file...
+[13:03:55] [Server thread/INFO]: Yumalala joined the game
+[13:03:55] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[13:05:15] [Server thread/INFO]: Yumalala was slain by Zombie
+[13:06:39] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -215, -10, -413, minecraft:overworld
