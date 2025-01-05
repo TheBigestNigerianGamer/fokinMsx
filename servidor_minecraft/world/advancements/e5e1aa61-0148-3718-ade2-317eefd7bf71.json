@@ -4912,13 +4912,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_oxeye_daisy": "2025-01-04 23:58:08 +0000"
+      "has_iron_block": "2025-01-04 23:00:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-01-04 23:00:51 +0000"
     },
@@ -4930,9 +4930,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_azure_bluet": "2025-01-04 23:58:12 +0000"
+      "has_oxeye_daisy": "2025-01-04 23:58:08 +0000"
     },
     "done": true
   },
@@ -4942,9 +4942,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_iron_block": "2025-01-04 23:00:51 +0000"
+      "has_azure_bluet": "2025-01-04 23:58:12 +0000"
     },
     "done": true
   },
