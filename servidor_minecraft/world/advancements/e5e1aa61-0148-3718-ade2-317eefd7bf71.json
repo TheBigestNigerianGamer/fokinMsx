@@ -5345,6 +5345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-01-05 22:46:32 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_slab": {
     "criteria": {
       "has_item": "2025-01-05 21:37:44 +0000"

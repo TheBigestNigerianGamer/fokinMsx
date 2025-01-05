@@ -1097,3 +1097,12 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [22:40:32] [Server thread/INFO]: [Yumalala: Teleported Yumalala to -262.693581, 182.000000, -362.284528]
 [22:40:35] [Server thread/INFO]: Yumalala fell from a high place
 [22:40:56] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -256, 94, -360, minecraft:overworld
+[22:53:05] [Server thread/INFO]: Yumalala lost connection: You logged in from another location
+[22:53:05] [Server thread/INFO]: Yumalala left the game
+[22:53:05] [Server thread/INFO]: Yumalala[/[0:0:0:0:0:0:0:1%0]:43876] logged in with entity id 26906 at (-260.30000001192093, 88.0, -352.3010857998653)
+[22:53:05] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[22:53:05] [Server thread/INFO]: Loading config from file...
+[22:53:05] [Server thread/INFO]: Yumalala joined the game
+[22:53:06] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[22:53:33] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
