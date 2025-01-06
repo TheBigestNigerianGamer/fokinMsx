@@ -115,3 +115,10 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [02:27:15] [Server thread/INFO]: Loading config from file...
 [02:27:15] [Server thread/INFO]: AKUSGOD joined the game
 [02:27:16] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player AKUSGOD. Claiming: GRAVE / Robbing: INVENTORY
+[02:27:57] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[02:31:31] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[02:32:56] [Server thread/INFO]: [Not Secure] [Server] Yumalala completed a mission!
+[02:36:55] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
