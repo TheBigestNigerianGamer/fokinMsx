@@ -24,3 +24,24 @@ io.netty.handler.timeout.ReadTimeoutException: null
 io.netty.handler.timeout.ReadTimeoutException: null
 [01:24:35] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[01:28:42] [Server thread/INFO]: Yumalala has made the advancement [We Need to Go Deeper]
+[01:28:44] [Server thread/WARN]: AKUSGOD moved too quickly! -9.567539522735785,-0.7684762024129874,-3.123917836324779
+[01:28:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3821ms or 76 ticks behind
+[01:29:40] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[01:32:45] [Server thread/INFO]: AKUSGOD was shot by Skeleton
+[01:33:55] [Server thread/INFO]: Locating element minecraft:fortress took 2 ms
+[01:34:29] [Server thread/INFO]: Yumalala fell from a high place
+[01:36:23] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -71, 46, -84, minecraft:the_nether
+[01:36:26] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[01:37:03] [Server thread/INFO]: AKUSGOD claimed a grave belonging to AKUSGOD at -402, 10, -226, minecraft:overworld
+[01:39:30] [Server thread/INFO]: Yumalala fell from a high place
+[01:41:49] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[01:42:07] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[01:42:08] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -208, 33, -280, minecraft:the_nether
+[01:44:11] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[01:45:49] [Server thread/INFO]: Yumalala has made the advancement [A Terrible Fortress]
+[01:46:03] [Server thread/INFO]: Yumalala has made the advancement [Into Fire]
+[01:46:21] [Server thread/INFO]: AKUSGOD has made the advancement [A Diamond in the Rough]
