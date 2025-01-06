@@ -2944,9 +2944,27 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-06 00:13:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
     },
     "done": true
   },
@@ -2962,15 +2980,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-06 00:42:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-06 00:13:45 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall": {
+    "criteria": {
+      "has_item": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-01-06 00:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-06 00:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-06 00:42:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_gold": {
+    "criteria": {
+      "has_item": "2025-01-06 00:38:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
     },
     "done": true
   },
@@ -2986,15 +3064,51 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/polished_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab": {
+    "criteria": {
+      "has_item": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-06 00:13:45 +0000"
     },
     "done": true
   },
+  "twigs:recipes/calcite/calcite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/polished_calcite": {
+    "criteria": {
+      "has_item": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-06 00:13:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
     },
     "done": true
   },
@@ -3028,9 +3142,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-06 00:13:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite": {
+    "criteria": {
+      "has_item": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs": {
+    "criteria": {
+      "has_item": "2025-01-06 00:42:36 +0000"
     },
     "done": true
   },
@@ -3046,6 +3184,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/polished_amethyst": {
+    "criteria": {
+      "has_item": "2025-01-06 00:42:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-06 00:13:45 +0000"
@@ -3058,9 +3214,57 @@
     },
     "done": true
   },
+  "spelunkery:recipes/amethyst": {
+    "criteria": {
+      "has_item": "2025-01-06 00:42:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-06 00:42:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-06 00:13:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
     },
     "done": true
   },
@@ -3073,6 +3277,30 @@
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-06 00:13:45 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-06 00:42:30 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_item": "2025-01-06 00:42:21 +0000"
     },
     "done": true
   },
