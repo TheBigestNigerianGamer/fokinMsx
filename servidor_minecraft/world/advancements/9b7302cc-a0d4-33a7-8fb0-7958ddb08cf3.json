@@ -3022,6 +3022,12 @@
     },
     "done": true
   },
+  "spelunkery:spelunkery/rough_diamond": {
+    "criteria": {
+      "item": "2025-01-06 01:46:21 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_wall_stonecutting": {
     "criteria": {
       "has_item": "2025-01-06 01:27:00 +0000"
@@ -3472,6 +3478,12 @@
     },
     "done": true
   },
+  "spelunkery:recipes/rough_diamond": {
+    "criteria": {
+      "has_item": "2025-01-06 01:46:21 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/amethyst": {
     "criteria": {
       "has_item": "2025-01-06 00:42:30 +0000"
@@ -3619,6 +3631,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-01-06 00:42:30 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_diamond_shard": {
+    "criteria": {
+      "has_item": "2025-01-06 01:46:23 +0000"
     },
     "done": true
   },

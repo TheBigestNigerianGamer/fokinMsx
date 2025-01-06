@@ -45,3 +45,29 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [01:45:49] [Server thread/INFO]: Yumalala has made the advancement [A Terrible Fortress]
 [01:46:03] [Server thread/INFO]: Yumalala has made the advancement [Into Fire]
 [01:46:21] [Server thread/INFO]: AKUSGOD has made the advancement [A Diamond in the Rough]
+[01:47:41] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[01:47:41] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[01:48:34] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[01:48:59] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[01:49:00] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[01:49:13] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[01:49:14] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[01:49:53] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[01:49:54] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[01:50:43] [Server thread/INFO]: Yumalala burned to death
+[01:50:43] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[01:50:55] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]
+[01:50:57] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[01:51:29] [Server thread/INFO]: [Yumalala: Teleported Yumalala to -305.500000, 35.000000, -337.500000]
+[01:51:31] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -306, 34, -338, minecraft:the_nether
+[01:53:57] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[01:54:40] [Server thread/INFO]: Yumalala has made the advancement [Those Were the Days]
+[01:55:13] [Server thread/INFO]: Yumalala was slain by Piglin
+[01:55:46] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[01:56:05] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[01:56:06] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 34, 63, -319, minecraft:the_nether
+[01:56:20] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[01:56:54] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
