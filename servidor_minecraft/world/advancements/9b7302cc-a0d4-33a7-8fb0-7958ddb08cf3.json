@@ -2968,6 +2968,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-01-06 02:20:37 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
     "criteria": {
       "has_item": "2025-01-06 02:04:59 +0000"
@@ -3031,6 +3037,12 @@
   "twigs:recipes/tuff/tuff_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-01-06 01:27:00 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/grindstone": {
+    "criteria": {
+      "item": "2025-01-06 02:24:58 +0000"
     },
     "done": true
   },
@@ -3130,6 +3142,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-01-06 02:24:07 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-06 01:27:00 +0000"
@@ -3178,6 +3196,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-01-06 02:20:37 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/vinemaker_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-01-06 00:53:05 +0000"
@@ -3211,6 +3235,12 @@
   "hearth_and_home:recipes/oak_vertical_trim": {
     "criteria": {
       "has_the_recipe": "2025-01-06 01:16:17 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/barred_glass": {
+    "criteria": {
+      "has_item": "2025-01-06 02:24:07 +0000"
     },
     "done": true
   },
@@ -3418,6 +3448,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-01-06 02:24:07 +0000"
+    },
+    "done": true
+  },
   "spelunkery:recipes/raw_copper": {
     "criteria": {
       "has_item": "2025-01-06 00:14:27 +0000"
@@ -3427,6 +3463,12 @@
   "spelunkery:recipes/raw_magnetite_nugget": {
     "criteria": {
       "has_item": "2025-01-06 01:26:14 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/diamond": {
+    "criteria": {
+      "has_item": "2025-01-06 02:24:58 +0000"
     },
     "done": true
   },
@@ -3514,6 +3556,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-01-06 02:20:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-06 00:13:45 +0000"
@@ -3529,6 +3577,12 @@
   "spelunkery:recipes/amethyst": {
     "criteria": {
       "has_item": "2025-01-06 00:42:30 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_box": {
+    "criteria": {
+      "has_glass": "2025-01-06 02:24:07 +0000"
     },
     "done": true
   },
@@ -3550,9 +3604,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-01-06 02:20:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-06 00:42:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2025-01-06 02:20:37 +0000"
     },
     "done": true
   },
@@ -3625,6 +3691,12 @@
   "twigs:recipes/rhyolite/polished_rhyolite": {
     "criteria": {
       "has_item": "2025-01-06 02:04:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-01-06 02:24:07 +0000"
     },
     "done": true
   },
@@ -3715,6 +3787,18 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-01-06 01:16:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-01-06 02:24:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-01-06 02:20:37 +0000"
     },
     "done": true
   },

@@ -96,3 +96,22 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [02:11:49] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
 [02:13:39] [Server thread/INFO]: [Yumalala: Teleported AKUSGOD to Yumalala]
+[02:17:36] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[02:20:08] [Server thread/INFO]: Yumalala lost connection: Timed out
+[02:20:08] [Server thread/INFO]: Yumalala left the game
+[02:24:14] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[02:24:58] [Server thread/INFO]: AKUSGOD has made the advancement [Always on the Grind]
+[02:25:20] [Server thread/INFO]: Yumalala[/[0:0:0:0:0:0:0:1%0]:50346] logged in with entity id 84998 at (-263.0687672746996, 88.0, -365.55279772407545)
+[02:25:20] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[02:25:20] [Server thread/INFO]: Loading config from file...
+[02:25:20] [Server thread/INFO]: Yumalala joined the game
+[02:25:23] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[02:26:50] [Server thread/INFO]: AKUSGOD lost connection: Timed out
+[02:26:50] [Server thread/INFO]: AKUSGOD left the game
+[02:27:15] [Server thread/INFO]: AKUSGOD[/[0:0:0:0:0:0:0:1%0]:42286] logged in with entity id 85405 at (-296.4213551826789, 76.0, -391.31942848747656)
+[02:27:15] [Server thread/INFO]: Syncing config to AKUSGOD (9b7302cc-a0d4-33a7-8fb0-7958ddb08cf3)
+[02:27:15] [Server thread/INFO]: Loading config from file...
+[02:27:15] [Server thread/INFO]: AKUSGOD joined the game
+[02:27:16] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player AKUSGOD. Claiming: GRAVE / Robbing: INVENTORY
