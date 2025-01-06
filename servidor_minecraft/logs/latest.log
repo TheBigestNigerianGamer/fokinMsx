@@ -12,3 +12,5 @@
 [00:40:49] [Server thread/INFO]: AKUSGOD claimed a grave belonging to AKUSGOD at -412, 20, -223, minecraft:overworld
 [00:43:01] [Server thread/INFO]: Yumalala was doomed to fall by Skeleton
 [00:43:47] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -417, 64, -300, minecraft:overworld
+[01:00:41] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
