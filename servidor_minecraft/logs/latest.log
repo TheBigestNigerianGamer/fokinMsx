@@ -1204,3 +1204,35 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [05:42:30] [Server thread/INFO]: Yumalala joined the game
 [05:42:30] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
 [05:53:58] [Server thread/INFO]: Yumalala has completed the challenge [Cover Me in Debris]
+[05:58:36] [Server thread/INFO]: [Not Secure] <Yumalala> -35 -46
+[06:12:33] [Server thread/INFO]: Locating element minecraft:stronghold took 0 ms
+[06:13:39] [Server thread/INFO]: [Yumalala: Teleported Yumalala to 240.500000, 67.000000, -1551.500000]
+[06:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[06:15:07] [Server thread/INFO]: [Yumalala: Successfully filled 124 block(s)]
+[06:15:27] [Server thread/INFO]: [Yumalala: Successfully filled 250 block(s)]
+[06:15:42] [Server thread/INFO]: [Yumalala: Teleported Yumalala to 247.500000, -18.000000, -1550.500000]
+[06:15:49] [Server thread/INFO]: Yumalala has made the advancement [Eye Spy]
+[06:18:54] [Server thread/INFO]: [Yumalala: Gave 1 [Netherite Hammer] to Yumalala]
+[06:20:25] [Server thread/INFO]: [Not Secure] <Yumalala> 28 -191
+[06:25:31] [Server thread/INFO]: Yumalala has made the advancement [Mean Green XP Machine]
+[06:31:33] [Server thread/INFO]: [Yumalala: Gave 30 [Glass] to Yumalala]
+[06:42:47] [Server thread/INFO]: Yumalala has made the advancement [*lodes your stone*]
+[06:43:32] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[06:44:09] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[06:52:32] [Server thread/INFO]: Yumalala was slain by Enderman
+[06:52:59] [Server thread/INFO]: [Yumalala: Teleported Yumalala to -9.500000, 100.000000, 80.500000]
+[06:53:00] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -10, 100, 80, minecraft:the_nether
+[06:54:39] [Server thread/INFO]: Yumalala fell from a high place
+[06:55:13] [Server thread/INFO]: [Yumalala: Teleported Yumalala to -9.500000, 100.000000, 80.500000]
+[06:55:30] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -14, 75, 94, minecraft:the_nether
+[06:56:25] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[06:56:33] [Server thread/WARN]: Yumalala moved too quickly! 9.003780428958834,0.0,4.599167107247098
+[06:57:17] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[06:58:54] [Server thread/INFO]: [Yumalala: Gave 1 [Ladder] to Yumalala]
+[06:59:13] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[06:59:37] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[07:00:28] [Server thread/INFO]: Yumalala was slain by Endermite
+[07:00:55] [Server thread/INFO]: [Yumalala: Gave 1 [Ladder] to Yumalala]
+[07:01:14] [Server thread/INFO]: [Yumalala: Teleported Yumalala to 71.500000, 122.000000, -237.500000]
+[07:01:16] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 71, 122, -238, minecraft:the_nether
+[07:02:06] [Server thread/INFO]: [Not Secure] <Yumalala> 28 191
