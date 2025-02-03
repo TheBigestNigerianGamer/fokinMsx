@@ -1077,3 +1077,9 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [19:32:26] [Server thread/INFO]: Yumalala has made the advancement [No shelf organization]
 [19:45:54] [Server thread/INFO]: Yumalala lost connection: Disconnected
 [19:45:54] [Server thread/INFO]: Yumalala left the game
+[19:50:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a52067b[id=<null>,name=Yumalala,properties={},legacy=false] (/100.110.39.106:56783) lost connection: Disconnected
+[19:50:34] [Server thread/INFO]: Yumalala[/100.110.39.106:56807] logged in with entity id 4979 at (-306.3462012807416, 68.0, -359.30000001192093)
+[19:50:35] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[19:50:35] [Server thread/INFO]: Loading config from file...
+[19:50:35] [Server thread/INFO]: Yumalala joined the game
+[19:50:37] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
