@@ -1203,3 +1203,4 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [05:42:30] [Server thread/INFO]: Loading config from file...
 [05:42:30] [Server thread/INFO]: Yumalala joined the game
 [05:42:30] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[05:53:58] [Server thread/INFO]: Yumalala has completed the challenge [Cover Me in Debris]
