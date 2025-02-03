@@ -5844,5 +5844,47 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-03 02:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-03 02:28:47 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-02-03 02:28:47 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_clay": {
+    "criteria": {
+      "has_item": "2025-02-03 02:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-02-03 02:29:34 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-02-03 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_hammer": {
+    "criteria": {
+      "has_material": "2025-02-03 02:45:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
