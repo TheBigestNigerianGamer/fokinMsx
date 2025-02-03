@@ -1181,3 +1181,25 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [05:33:41] [Server thread/INFO]: [Yumalala: Teleported Yumalala to -3311.500000, 85.000000, -3279.500000]
 [05:33:55] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
 [05:33:56] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -3293, 60, -3256, minecraft:the_nether
+[05:35:58] [Server thread/INFO]: Yumalala burned to death
+[05:36:07] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]
+[05:36:19] [Server thread/INFO]: [Yumalala: Teleported Yumalala to -3311.500000, 85.000000, -3279.500000]
+[05:36:39] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[05:36:39] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -3319, 53, -3260, minecraft:the_nether
+[05:36:59] [Server thread/INFO]: Yumalala was doomed to fall by Piglin
+[05:37:08] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]
+[05:37:17] [Server thread/INFO]: [Yumalala: Teleported Yumalala to -3311.500000, 87.322396, -3279.500000]
+[05:37:25] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -3340, 35, -3256, minecraft:the_nether
+[05:37:43] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[05:40:11] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]
+[05:40:16] [Server thread/INFO]: [Yumalala: Teleported Yumalala to 0.500000, 41.000000, 0.500000]
+[05:41:24] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[05:41:29] [Server thread/INFO]: Yumalala was slain by Piglin
+[05:41:45] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -28, 85, -47, minecraft:the_nether
+[05:42:28] [Server thread/INFO]: Yumalala lost connection: Disconnected
+[05:42:28] [Server thread/INFO]: Yumalala left the game
+[05:42:30] [Server thread/INFO]: Yumalala[/100.110.39.106:56920] logged in with entity id 88837 at (-273.4400142161389, 87.0, -358.2287481888304)
+[05:42:30] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[05:42:30] [Server thread/INFO]: Loading config from file...
+[05:42:30] [Server thread/INFO]: Yumalala joined the game
+[05:42:30] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
