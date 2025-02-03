@@ -1075,3 +1075,5 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [02:45:24] [Server thread/INFO]: Yumalala joined the game
 [02:45:29] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
 [03:32:47] [Server thread/INFO]: [Not Secure] [Server] Yumalala completed a mission!
+[04:21:07] [Server thread/INFO]: [Yumalala: Gave 1 [Anvil] to Yumalala]
+[04:24:13] [Server thread/INFO]: Yumalala burned to death
