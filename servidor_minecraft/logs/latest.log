@@ -1075,3 +1075,5 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [19:20:39] [Server thread/INFO]: Yumalala joined the game
 [19:20:42] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
 [19:32:26] [Server thread/INFO]: Yumalala has made the advancement [No shelf organization]
+[19:45:54] [Server thread/INFO]: Yumalala lost connection: Disconnected
+[19:45:54] [Server thread/INFO]: Yumalala left the game
