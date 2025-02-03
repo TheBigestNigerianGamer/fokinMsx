@@ -1236,3 +1236,5 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [07:01:14] [Server thread/INFO]: [Yumalala: Teleported Yumalala to 71.500000, 122.000000, -237.500000]
 [07:01:16] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at 71, 122, -238, minecraft:the_nether
 [07:02:06] [Server thread/INFO]: [Not Secure] <Yumalala> 28 191
+[07:35:33] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]
+[07:36:09] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
