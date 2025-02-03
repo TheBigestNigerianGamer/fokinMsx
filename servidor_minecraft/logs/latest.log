@@ -1139,3 +1139,29 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [04:56:23] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 1 ms
 [04:56:26] [Server thread/INFO]: [Yumalala: Teleported Yumalala to -367.500000, 58.477351, -2095.500000]
 [04:56:47] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[05:05:41] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[05:07:17] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 156 ms
+[05:07:21] [Server thread/INFO]: [Yumalala: Teleported Yumalala to -2463.500000, 66.005404, -2303.500000]
+[05:07:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2823ms or 56 ticks behind
+[05:07:44] [Worker-Main-107/ERROR]: Detected setBlock in a far chunk [-163, -153], pos: class_2339{x=-2605, y=34, z=-2447}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / spelunkery:sulfur_patch]
+[05:07:44] [Worker-Main-107/ERROR]: Detected setBlock in a far chunk [-163, -153], pos: class_2339{x=-2605, y=34, z=-2446}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / spelunkery:sulfur_patch]
+[05:07:44] [Worker-Main-107/ERROR]: Detected setBlock in a far chunk [-163, -153], pos: class_2339{x=-2604, y=34, z=-2447}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / spelunkery:sulfur_patch]
+[05:07:44] [Worker-Main-107/ERROR]: Detected setBlock in a far chunk [-163, -153], pos: class_2339{x=-2604, y=33, z=-2447}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / spelunkery:sulfur_patch]
+[05:07:44] [Worker-Main-107/ERROR]: Detected setBlock in a far chunk [-163, -153], pos: class_2339{x=-2603, y=34, z=-2447}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / spelunkery:sulfur_patch]
+[05:07:45] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[05:08:08] [Server thread/INFO]: Yumalala lost connection: Timed out
+[05:08:08] [Server thread/INFO]: Yumalala left the game
+[05:08:18] [Server thread/INFO]: Yumalala[/100.110.39.106:55947] logged in with entity id 77081 at (-2441.285845908876, 70.0, -2340.4099457939255)
+[05:08:18] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[05:08:18] [Server thread/INFO]: Loading config from file...
+[05:08:18] [Server thread/INFO]: Yumalala joined the game
+[05:08:19] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[05:08:31] [Server thread/INFO]: Yumalala lost connection: Disconnected
+[05:08:31] [Server thread/INFO]: Yumalala left the game
+[05:08:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:08:39] [Server thread/INFO]: adsa<--[HERE]
+[05:12:18] [Server thread/INFO]: Yumalala[/100.110.39.106:56104] logged in with entity id 77296 at (-2441.285845908876, 70.0, -2340.4099457939255)
+[05:12:18] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[05:12:18] [Server thread/INFO]: Loading config from file...
+[05:12:18] [Server thread/INFO]: Yumalala joined the game
+[05:12:23] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
