@@ -1171,3 +1171,13 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [05:24:22] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]
 [05:24:23] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -2480, 28, -2340, minecraft:the_nether
 [05:24:49] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[05:27:50] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[05:28:31] [Server thread/INFO]: [Yumalala: Teleported Yumalala to -2999.500000, 55.757420, -2999.500000]
+[05:28:42] [Server thread/INFO]: Locating element minecraft:bastion_remnant took 0 ms
+[05:28:45] [Server thread/INFO]: [Yumalala: Teleported Yumalala to -3311.500000, 72.246542, -3279.500000]
+[05:29:04] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[05:32:49] [Server thread/INFO]: Yumalala was doomed to fall by Piglin Brute
+[05:33:38] [Server thread/INFO]: [Yumalala: Set own game mode to Spectator Mode]
+[05:33:41] [Server thread/INFO]: [Yumalala: Teleported Yumalala to -3311.500000, 85.000000, -3279.500000]
+[05:33:55] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[05:33:56] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -3293, 60, -3256, minecraft:the_nether
