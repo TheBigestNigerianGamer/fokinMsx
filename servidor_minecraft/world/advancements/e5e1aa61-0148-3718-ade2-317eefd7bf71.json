@@ -6943,6 +6943,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-04 21:17:38 +0000"
+    },
+    "done": true
+  },
+  "hero_proof:hero_proof": {
+    "criteria": {
+      "Medal": "2025-02-04 21:17:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-02-04 21:05:00 +0000"
