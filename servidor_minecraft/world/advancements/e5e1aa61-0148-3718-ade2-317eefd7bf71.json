@@ -6855,33 +6855,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_brick_wall": {
-    "criteria": {
-      "has_cut_tuff_bricks": "2025-02-03 21:22:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_wall": {
-    "criteria": {
-      "has_small_tuff_bricks": "2025-02-03 21:23:04 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_tuff_slab": {
     "criteria": {
       "has_cut_tuff": "2025-02-03 21:20:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_stairs": {
-    "criteria": {
-      "has_cut_tuff_bricks": "2025-02-03 21:22:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_tuff_brick_stairs": {
-    "criteria": {
-      "has_small_tuff_bricks": "2025-02-03 21:23:04 +0000"
     },
     "done": true
   },
@@ -6897,15 +6873,45 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_tuff_brick_slab": {
+  "create:recipes/building_blocks/cut_tuff_brick_wall": {
     "criteria": {
-      "has_small_tuff_bricks": "2025-02-03 21:23:04 +0000"
+      "has_cut_tuff_bricks": "2025-02-03 21:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs": {
+    "criteria": {
+      "has_cut_tuff_bricks": "2025-02-03 21:22:58 +0000"
     },
     "done": true
   },
   "create:recipes/building_blocks/cut_tuff_brick_slab": {
     "criteria": {
       "has_cut_tuff_bricks": "2025-02-03 21:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall": {
+    "criteria": {
+      "has_small_tuff_bricks": "2025-02-03 21:23:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs": {
+    "criteria": {
+      "has_small_tuff_bricks": "2025-02-03 21:23:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab": {
+    "criteria": {
+      "has_small_tuff_bricks": "2025-02-03 21:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-04 03:44:41 +0000"
     },
     "done": true
   },
