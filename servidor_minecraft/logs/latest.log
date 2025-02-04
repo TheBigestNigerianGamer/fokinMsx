@@ -1082,3 +1082,13 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [04:00:06] [Server thread/INFO]: Loading config from file...
 [04:00:06] [Server thread/INFO]: Yumalala joined the game
 [04:00:09] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[04:06:36] [Server thread/INFO]: Yumalala was shot by Skeleton
+[04:07:26] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -282, -41, -304, minecraft:overworld
+[04:08:10] [Server thread/INFO]: Yumalala was blown up by Creeper
+[04:08:57] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -345, -48, -271, minecraft:overworld
+[04:18:42] [Server thread/INFO]: Yumalala was killed
+[04:18:42] [Server thread/INFO]: [Yumalala: Killed Yumalala]
+[04:18:53] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -286, 86, -352, minecraft:overworld
+[04:19:10] [Server thread/INFO]: Yumalala was killed
+[04:19:10] [Server thread/INFO]: [Yumalala: Killed Yumalala]
+[04:20:38] [Server thread/INFO]: [Yumalala: Successfully filled 1 block(s)]

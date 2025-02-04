@@ -6915,5 +6915,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze_smithing": {
+    "criteria": {
+      "has_blaze": "2025-02-04 04:02:06 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
