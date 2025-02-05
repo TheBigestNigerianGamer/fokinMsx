@@ -1086,3 +1086,4 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [21:49:23] [Server thread/INFO]: Loading config from file...
 [21:49:23] [Server thread/INFO]: Yumalala joined the game
 [21:49:29] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[22:47:22] [Server thread/INFO]: [Yumalala: Teleported Yumalala to -244.500000, 66.000000, -713.500000]
