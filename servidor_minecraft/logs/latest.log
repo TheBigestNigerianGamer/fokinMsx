@@ -1096,3 +1096,5 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [01:07:19] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
 [01:07:22] [Server thread/INFO]: Yumalala was killed
 [01:07:22] [Server thread/INFO]: [Yumalala: Killed Yumalala]
+[01:25:50] [Server thread/WARN]: Yumalala moved too quickly! -2.3842694296054106,1.5878268242302056,-9.708732486214728
+[01:27:47] [Server thread/WARN]: Yumalala moved too quickly! -2.9598433276886453,2.1701233844596004,9.346836871998761

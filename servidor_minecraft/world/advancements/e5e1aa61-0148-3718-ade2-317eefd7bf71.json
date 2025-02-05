@@ -6978,7 +6978,8 @@
   "spelunkery:spelunkery/every_ore": {
     "criteria": {
       "nether_gold_ore": "2025-02-04 22:00:32 +0000",
-      "nether_quartz_ore": "2025-02-04 21:59:37 +0000"
+      "nether_quartz_ore": "2025-02-04 21:59:37 +0000",
+      "copper_ore": "2025-02-05 01:15:48 +0000"
     },
     "done": false
   },
@@ -7117,6 +7118,30 @@
   "spelunkery:recipes/rock_salt_block": {
     "criteria": {
       "has_item": "2025-02-05 00:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-02-05 01:15:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-02-05 01:15:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-05 01:04:56 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/copper_ores": {
+    "criteria": {
+      "has_item": "2025-02-05 01:15:48 +0000"
     },
     "done": true
   },
