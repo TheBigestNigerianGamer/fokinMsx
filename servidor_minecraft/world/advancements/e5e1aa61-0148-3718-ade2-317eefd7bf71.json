@@ -7103,12 +7103,6 @@
     },
     "done": true
   },
-  "spelunkery:spelunkery/compression_blast_miner": {
-    "criteria": {
-      "item": "2025-02-05 00:59:06 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/bamboo_thatch/bamboo_thatch_slab": {
     "criteria": {
       "has_bamboo_thatch": "2025-02-05 00:48:28 +0000"
@@ -7121,6 +7115,18 @@
     },
     "done": true
   },
+  "spelunkery:spelunkery/compression_blast_miner": {
+    "criteria": {
+      "item": "2025-02-05 00:59:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-05 01:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-02-05 01:15:48 +0000"
@@ -7130,12 +7136,6 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-02-05 01:15:48 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/fox": {
-    "criteria": {
-      "has_sweet_berries": "2025-02-05 01:04:56 +0000"
     },
     "done": true
   },
