@@ -7256,6 +7256,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-02-07 05:53:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-02-07 04:08:15 +0000"
@@ -7529,6 +7535,12 @@
   "vinery:recipes/dark_cherry_trapdoor": {
     "criteria": {
       "has_cherry_planks": "2025-02-07 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-02-07 05:52:58 +0000"
     },
     "done": true
   },
