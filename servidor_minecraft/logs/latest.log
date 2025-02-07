@@ -1091,3 +1091,5 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [17:04:16] [Server thread/INFO]: Loading config from file...
 [17:04:16] [Server thread/INFO]: Yumalala joined the game
 [17:04:19] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[17:12:32] [Server thread/INFO]: Yumalala was blown up by Creeper
+[17:13:52] [Server thread/INFO]: Yumalala claimed a grave belonging to Yumalala at -264, 53, -702, minecraft:overworld
