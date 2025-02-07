@@ -2416,6 +2416,7 @@
       "conk_fungus": "2024-12-31 02:30:53 +0000",
       "brown_mushroom": "2024-12-31 01:13:46 +0000",
       "crimson_fungus": "2025-02-07 03:15:47 +0000",
+      "warped_fungus": "2025-02-07 03:23:51 +0000",
       "inkcap_mushroom": "2024-12-31 02:30:07 +0000"
     },
     "done": false
@@ -7279,6 +7280,12 @@
   "vinery:recipes/dark_cherry_pressure_plate": {
     "criteria": {
       "has_cherry_planks": "2025-02-07 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-02-07 03:23:51 +0000"
     },
     "done": true
   },
