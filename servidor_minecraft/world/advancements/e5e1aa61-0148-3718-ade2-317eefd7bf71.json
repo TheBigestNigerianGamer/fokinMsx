@@ -2420,6 +2420,7 @@
       "brown_mushroom": "2024-12-31 01:13:46 +0000",
       "crimson_fungus": "2025-02-07 03:15:47 +0000",
       "warped_fungus": "2025-02-07 03:23:51 +0000",
+      "red_mushroom": "2025-02-07 06:46:28 +0000",
       "inkcap_mushroom": "2024-12-31 02:30:07 +0000"
     },
     "done": false
@@ -7328,6 +7329,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-02-07 06:37:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-02-07 05:02:33 +0000"
@@ -7496,6 +7503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-07 06:48:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-02-07 04:01:58 +0000"
@@ -7562,6 +7575,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-02-07 06:37:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
@@ -7571,6 +7590,12 @@
   "twigs:recipes/calcite/polished_calcite_stonecutting": {
     "criteria": {
       "has_item": "2025-02-07 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-02-07 06:37:36 +0000"
     },
     "done": true
   },
@@ -7646,6 +7671,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-02-07 06:37:45 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/dark_oak_table": {
     "criteria": {
       "has_the_recipe": "2025-02-07 04:16:56 +0000"
@@ -7655,6 +7686,12 @@
   "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-02-07 06:37:45 +0000"
     },
     "done": true
   },
@@ -7670,6 +7707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-07 06:48:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2025-02-07 04:55:27 +0000"
@@ -7679,6 +7722,12 @@
   "create:encased_fan": {
     "criteria": {
       "0": "2025-02-07 05:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-07 06:48:44 +0000"
     },
     "done": true
   },
