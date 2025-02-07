@@ -1127,3 +1127,10 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [05:09:38] [Server thread/INFO]: Villager class_1646['Unemployed'/106913, l='ServerLevel[world]', x=1000189.50, y=138.00, z=-340.51] died, message: 'Unemployed was slain by Yumalala'
 [05:09:42] [Server thread/INFO]: Villager class_1646['Unemployed'/107825, l='ServerLevel[world]', x=1000192.51, y=138.00, z=-330.96] died, message: 'Unemployed was slain by Yumalala'
 [05:23:31] [Server thread/INFO]: Yumalala has made the advancement [Maybe Don't Touch it]
+[05:23:37] [Server thread/INFO]: Villager class_1646['Unemployed'/107827, l='ServerLevel[world]', x=1000187.53, y=138.76, z=-339.10] died, message: 'Unemployed was slain by Yumalala'
+[05:25:28] [Server thread/INFO]: Villager class_1646['Unemployed'/107824, l='ServerLevel[world]', x=1000185.32, y=138.05, z=-328.65] died, message: 'Unemployed was slain by Yumalala'
+[05:25:32] [Server thread/INFO]: Villager class_1646['Unemployed'/110219, l='ServerLevel[world]', x=1000180.42, y=123.00, z=-329.91] died, message: 'Unemployed hit the ground too hard whilst trying to escape Yumalala'
+[05:25:35] [Server thread/INFO]: Villager class_1646['Unemployed'/107826, l='ServerLevel[world]', x=1000185.30, y=138.45, z=-327.56] died, message: 'Unemployed was slain by Yumalala'
+[05:30:13] [Server thread/INFO]: Villager class_1646['Unemployed'/111369, l='ServerLevel[world]', x=1000184.35, y=142.00, z=-335.69] died, message: 'Unemployed was slain by Yumalala'
+[05:30:15] [Server thread/INFO]: Villager class_1646['Unemployed'/111368, l='ServerLevel[world]', x=1000185.50, y=144.36, z=-334.30] died, message: 'Unemployed was slain by Yumalala'
+[05:31:56] [Server thread/INFO]: Villager class_1646['Unemployed'/111255, l='ServerLevel[world]', x=1000184.07, y=137.00, z=-342.30] died, message: 'Unemployed was slain by Yumalala'
