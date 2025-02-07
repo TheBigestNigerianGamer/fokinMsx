@@ -7256,6 +7256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-07 02:52:24 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_dia_pearl": {
     "criteria": {
       "inv_changed-ender_pearl": "2025-02-07 01:56:24 +0000",
