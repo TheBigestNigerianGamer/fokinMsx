@@ -620,6 +620,7 @@
       "minecraft:creeper": "2024-12-29 04:48:13 +0000",
       "minecraft:slime": "2025-01-01 14:14:20 +0000",
       "minecraft:evoker": "2025-02-04 21:07:04 +0000",
+      "minecraft:phantom": "2025-02-07 07:39:02 +0000",
       "minecraft:witch": "2024-12-30 02:08:09 +0000",
       "minecraft:piglin": "2025-01-06 01:37:36 +0000",
       "minecraft:enderman": "2024-12-29 04:54:52 +0000",
@@ -7245,153 +7246,9 @@
     },
     "done": true
   },
-  "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
-    "criteria": {
-      "has_item": "2025-02-07 04:01:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/birch_window": {
-    "criteria": {
-      "has_ingredient": "2025-02-07 05:02:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
-    "criteria": {
-      "has_item": "2025-02-07 05:53:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
-    "criteria": {
-      "has_copper_ingots": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-07 04:50:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_whistle": {
-    "criteria": {
-      "has_item": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-02-07 05:02:33 +0000"
-    },
-    "done": true
-  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2025-02-07 01:56:24 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_backtank": {
-    "criteria": {
-      "has_item": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-07 04:50:52 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:bramblethorn": {
-    "criteria": {
-      "requirement": "2025-02-07 05:38:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
-    },
-    "done": true
-  },
-  "beautify:lamps": {
-    "criteria": {
-      "requirement": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/super_glue": {
-    "criteria": {
-      "has_item": "2025-02-07 06:37:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-02-07 05:02:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-02-07 05:02:33 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-07 04:50:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_logs": "2025-02-07 07:17:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_engine": {
-    "criteria": {
-      "has_item": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-02-07 04:01:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-02-07 05:02:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearbox": {
-    "criteria": {
-      "has_item": "2025-02-07 05:01:47 +0000"
     },
     "done": true
   },
@@ -7401,225 +7258,16 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-02-07 05:19:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-07 05:02:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-07 04:50:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-02-07 04:55:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-02-07 05:02:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
-    "criteria": {
-      "has_copper_ingots": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
-    "criteria": {
-      "has_item": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-02-07 01:56:24 +0000"
     },
     "done": true
   },
-  "vinery:recipes/birch_wine_rack_small": {
+  "toms_storage:unlock_dia_pearl": {
     "criteria": {
-      "has_birch_planks": "2025-02-07 05:02:33 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/calcite/calcite_wall": {
-    "criteria": {
-      "has_item": "2025-02-07 04:01:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_fence": {
-    "criteria": {
-      "has_planks": "2025-02-07 07:17:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
-    "criteria": {
-      "has_item": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-07 05:02:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-07 04:50:52 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
-    "criteria": {
-      "has_item": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:caelestis": {
-    "criteria": {
-      "requirement": "2025-02-07 05:09:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-02-07 06:48:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-02-07 04:01:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-02-07 04:01:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
-    "criteria": {
-      "has_item": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/dark_oak_table_slab": {
-    "criteria": {
-      "has_bamboo": "2025-02-07 04:16:56 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dark_cherry_trapdoor": {
-    "criteria": {
-      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-07 07:17:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
-    "criteria": {
-      "has_item": "2025-02-07 05:52:58 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:longsword_plague": {
-    "criteria": {
-      "requirement": "2025-02-07 05:23:31 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
-    "criteria": {
-      "has_item": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_slab": {
-    "criteria": {
-      "has_planks": "2025-02-07 07:17:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/propeller": {
-    "criteria": {
-      "has_item": "2025-02-07 06:37:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/calcite/polished_calcite_stonecutting": {
-    "criteria": {
-      "has_item": "2025-02-07 04:01:56 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2025-02-07 06:37:36 +0000"
+      "inv_changed-ender_pearl": "2025-02-07 01:56:24 +0000",
+      "inv_changed-diamond": "2025-02-07 01:56:24 +0000"
     },
     "done": true
   },
@@ -7629,27 +7277,9 @@
     },
     "done": true
   },
-  "moderndynamics:recipes/transportation/fluid_pipe": {
+  "vinery:recipes/dark_cherry_trapdoor": {
     "criteria": {
-      "has_ingot": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/calcite/calcite_slab_stonecutting": {
-    "criteria": {
-      "has_item": "2025-02-07 04:01:56 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/calcite/calcite_slab": {
-    "criteria": {
-      "has_item": "2025-02-07 04:01:56 +0000"
+      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
     },
     "done": true
   },
@@ -7665,9 +7295,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/bamboo_button": {
+  "vinery:recipes/dark_cherry_stairs": {
     "criteria": {
-      "has_planks": "2025-02-07 07:17:37 +0000"
+      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_door": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_button": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_slab": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-02-07 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-02-07 03:23:51 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-07 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall": {
+    "criteria": {
+      "has_item": "2025-02-07 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-07 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-07 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab": {
+    "criteria": {
+      "has_item": "2025-02-07 04:01:56 +0000"
     },
     "done": true
   },
@@ -7683,99 +7415,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
-    "criteria": {
-      "has_item": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/nozzle": {
-    "criteria": {
-      "has_item": "2025-02-07 05:00:45 +0000"
-    },
-    "done": true
-  },
-  "create:shifting_gears": {
-    "criteria": {
-      "0": "2025-02-07 05:02:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_fan": {
-    "criteria": {
-      "has_item": "2025-02-07 06:37:45 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/dark_oak_table": {
-    "criteria": {
-      "has_the_recipe": "2025-02-07 04:16:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_tuff_brick_slab_recycling": {
-    "criteria": {
-      "has_cut_tuff_brick_slab": "2025-02-07 07:07:46 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
-    "criteria": {
-      "has_copper_ingots": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/whisk": {
-    "criteria": {
-      "has_item": "2025-02-07 06:37:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-02-07 03:23:51 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-02-07 06:48:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/scoria": {
-    "criteria": {
-      "has_item": "2025-02-07 04:55:27 +0000"
-    },
-    "done": true
-  },
-  "create:encased_fan": {
-    "criteria": {
-      "0": "2025-02-07 05:03:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-02-07 06:48:44 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/birch_wine_rack_big": {
-    "criteria": {
-      "has_birch_planks": "2025-02-07 05:02:33 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
-    "criteria": {
-      "has_copper_ingots": "2025-02-07 04:08:15 +0000"
     },
     "done": true
   },
@@ -7791,12 +7433,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/copper_nugget": {
-    "criteria": {
-      "has_item": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/calcite/polished_calcite": {
     "criteria": {
       "has_item": "2025-02-07 04:01:56 +0000"
@@ -7809,75 +7445,9 @@
     },
     "done": true
   },
-  "vinery:recipes/dark_cherry_stairs": {
-    "criteria": {
-      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_birch_wood": {
-    "criteria": {
-      "has_log": "2025-02-07 05:19:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copper_shingles_from_copper_ingots_stonecutting": {
-    "criteria": {
-      "has_copper_ingots": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/amethyst_blocks/polished_amethyst": {
-    "criteria": {
-      "has_item": "2025-02-07 04:01:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-07 04:50:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_sign": {
-    "criteria": {
-      "has_planks": "2025-02-07 07:17:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-02-07 04:19:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-07 04:50:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-07 04:50:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_door": {
-    "criteria": {
-      "has_planks": "2025-02-07 07:17:37 +0000"
     },
     "done": true
   },
@@ -7887,39 +7457,9 @@
     },
     "done": true
   },
-  "vinery:recipes/dark_cherry_door": {
-    "criteria": {
-      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_valve": {
-    "criteria": {
-      "has_item": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/amethyst": {
-    "criteria": {
-      "has_item": "2025-02-07 04:01:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-02-07 07:17:37 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dark_cherry_button": {
-    "criteria": {
-      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
     },
     "done": true
   },
@@ -7935,39 +7475,9 @@
     },
     "done": true
   },
-  "spelunkery:recipes/copper_ingot": {
-    "criteria": {
-      "has_item": "2025-02-07 04:08:15 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
-    "criteria": {
-      "has_item": "2025-02-07 04:01:57 +0000"
-    },
-    "done": true
-  },
-  "moderndynamics:recipes/transportation/extractor": {
-    "criteria": {
-      "has_hopper": "2025-02-07 04:25:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-02-07 04:50:52 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/bamboo_table": {
-    "criteria": {
-      "has_bamboo": "2025-02-07 07:17:37 +0000"
     },
     "done": true
   },
@@ -7983,28 +7493,213 @@
     },
     "done": true
   },
-  "vinery:recipes/dark_cherry_slab": {
+  "twigs:recipes/calcite/calcite_stairs_stonecutting": {
     "criteria": {
-      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
+      "has_item": "2025-02-07 04:01:56 +0000"
     },
     "done": true
   },
-  "toms_storage:unlock_dia_pearl": {
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
-      "inv_changed-ender_pearl": "2025-02-07 01:56:24 +0000",
-      "inv_changed-diamond": "2025-02-07 01:56:24 +0000"
+      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
+  "twigs:recipes/amethyst_blocks/polished_amethyst": {
     "criteria": {
-      "has_planks": "2025-02-07 05:02:33 +0000"
+      "has_item": "2025-02-07 04:01:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
+  "twigs:recipes/amethyst_blocks/polished_amethyst_stonecutting": {
     "criteria": {
-      "has_soul_sand": "2025-02-07 04:55:27 +0000"
+      "has_item": "2025-02-07 04:01:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
+    "criteria": {
+      "has_item": "2025-02-07 04:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-07 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-07 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-07 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/amethyst": {
+    "criteria": {
+      "has_item": "2025-02-07 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-07 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_ladder_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_pump": {
+    "criteria": {
+      "has_item": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_boots": {
+    "criteria": {
+      "has_item": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+    "criteria": {
+      "has_item": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "moderndynamics:recipes/transportation/fluid_pipe": {
+    "criteria": {
+      "has_ingot": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
+    "criteria": {
+      "has_item": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_copper_ingots_stonecutting": {
+    "criteria": {
+      "has_copper_ingots": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_valve": {
+    "criteria": {
+      "has_item": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-02-07 04:08:15 +0000"
     },
     "done": true
   },
@@ -8014,15 +7709,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+  "twigs:recipes/tables/dark_oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-02-07 04:16:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_the_recipe": "2025-02-07 04:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-02-07 04:19:33 +0000"
+    },
+    "done": true
+  },
+  "moderndynamics:recipes/transportation/extractor": {
+    "criteria": {
+      "has_hopper": "2025-02-07 04:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-07 04:50:52 +0000"
     },
     "done": true
   },
-  "twigs:recipes/calcite/calcite_stairs_stonecutting": {
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_item": "2025-02-07 04:01:56 +0000"
+      "has_glass_pane": "2025-02-07 04:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-07 04:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-07 04:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-07 04:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-07 04:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-07 04:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-07 04:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-07 04:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-02-07 04:50:52 +0000"
     },
     "done": true
   },
@@ -8038,15 +7805,45 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+  "create:recipes/misc/smelting/glass_from_vertical_framed_glass": {
     "criteria": {
-      "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
+      "has_item": "2025-02-07 04:51:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "create:recipes/building_blocks/vertical_framed_glass_pane": {
     "criteria": {
-      "has_amethyst_shard": "2025-02-07 04:01:58 +0000"
+      "has_ingredient": "2025-02-07 04:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-07 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-02-07 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-07 04:55:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-02-07 05:00:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-02-07 05:01:47 +0000"
     },
     "done": true
   },
@@ -8056,9 +7853,69 @@
     },
     "done": true
   },
-  "twigs:recipes/amethyst_blocks/cut_amethyst_from_amethyst_block_stonecutting": {
+  "create:recipes/building_blocks/birch_window": {
     "criteria": {
-      "has_item": "2025-02-07 04:01:57 +0000"
+      "has_ingredient": "2025-02-07 05:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-07 05:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-07 05:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-07 05:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-02-07 05:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-07 05:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-07 05:02:33 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2025-02-07 05:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-07 05:02:33 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2025-02-07 05:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-07 05:02:33 +0000"
     },
     "done": true
   },
@@ -8068,39 +7925,183 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/bamboo_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-07 07:17:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/glass_from_vertical_framed_glass": {
-    "criteria": {
-      "has_item": "2025-02-07 04:51:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-07 05:02:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_stairs": {
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-02-07 05:02:39 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-02-07 05:03:47 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:caelestis": {
+    "criteria": {
+      "requirement": "2025-02-07 05:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-07 05:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-07 05:19:35 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:longsword_plague": {
+    "criteria": {
+      "requirement": "2025-02-07 05:23:31 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:bramblethorn": {
+    "criteria": {
+      "requirement": "2025-02-07 05:38:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-02-07 05:52:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-02-07 05:53:00 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-02-07 06:37:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-02-07 06:37:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-02-07 06:37:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-02-07 06:37:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-02-07 06:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-07 06:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-07 06:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-07 06:48:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_tuff_brick_slab": "2025-02-07 07:07:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-02-07 07:17:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2025-02-07 07:17:37 +0000"
     },
     "done": true
   },
-  "vinery:recipes/dark_cherry_planks": {
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
     "criteria": {
-      "has_the_recipe": "2025-02-07 03:06:49 +0000"
+      "has_planks": "2025-02-07 07:17:37 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/vertical_framed_glass_pane": {
+  "minecraft:recipes/building_blocks/bamboo_slab": {
     "criteria": {
-      "has_ingredient": "2025-02-07 04:51:18 +0000"
+      "has_planks": "2025-02-07 07:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2025-02-07 07:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-02-07 07:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-02-07 07:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-07 07:17:37 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/bamboo_table": {
+    "criteria": {
+      "has_bamboo": "2025-02-07 07:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-07 07:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-07 07:17:37 +0000"
     },
     "done": true
   },
