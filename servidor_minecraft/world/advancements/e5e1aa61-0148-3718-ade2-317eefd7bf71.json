@@ -7359,6 +7359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-02-07 07:17:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-02-07 04:08:15 +0000"
@@ -7467,6 +7473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_fence": {
+    "criteria": {
+      "has_planks": "2025-02-07 07:17:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2025-02-07 04:08:15 +0000"
@@ -7551,6 +7563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-07 07:17:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2025-02-07 05:52:58 +0000"
@@ -7566,6 +7584,12 @@
   "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
       "has_item": "2025-02-07 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-02-07 07:17:37 +0000"
     },
     "done": true
   },
@@ -7638,6 +7662,12 @@
   "vinery:recipes/dark_cherry_pressure_plate": {
     "criteria": {
       "has_cherry_planks": "2025-02-07 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2025-02-07 07:17:37 +0000"
     },
     "done": true
   },
@@ -7821,6 +7851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-02-07 07:17:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-02-07 04:19:33 +0000"
@@ -7836,6 +7872,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-07 04:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-02-07 07:17:37 +0000"
     },
     "done": true
   },
@@ -7866,6 +7908,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-07 04:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-07 07:17:37 +0000"
     },
     "done": true
   },
@@ -7914,6 +7962,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-02-07 04:50:52 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/bamboo_table": {
+    "criteria": {
+      "has_bamboo": "2025-02-07 07:17:37 +0000"
     },
     "done": true
   },
@@ -8014,6 +8068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-07 07:17:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/glass_from_vertical_framed_glass": {
     "criteria": {
       "has_item": "2025-02-07 04:51:18 +0000"
@@ -8023,6 +8083,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-07 05:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-07 07:17:37 +0000"
     },
     "done": true
   },
