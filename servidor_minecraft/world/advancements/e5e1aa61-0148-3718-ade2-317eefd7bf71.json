@@ -7256,9 +7256,51 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_trapdoor": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-02-07 02:52:24 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_floorboard": {
+    "criteria": {
+      "has_cherry_wood": "2025-02-07 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_pressure_plate": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_stairs": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_door": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_button": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_slab": {
+    "criteria": {
+      "has_cherry_planks": "2025-02-07 03:06:49 +0000"
     },
     "done": true
   },
@@ -7266,6 +7308,12 @@
     "criteria": {
       "inv_changed-ender_pearl": "2025-02-07 01:56:24 +0000",
       "inv_changed-diamond": "2025-02-07 01:56:24 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-02-07 03:06:49 +0000"
     },
     "done": true
   },
