@@ -1100,3 +1100,22 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [19:07:49] [Server thread/INFO]: Loading config from file...
 [19:07:49] [Server thread/INFO]: Yumalala joined the game
 [19:07:53] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[20:10:25] [Server thread/INFO]: Yumalala lost connection: Timed out
+[20:10:25] [Server thread/INFO]: Yumalala left the game
+[20:10:25] [Server thread/WARN]: handleDisconnection() called twice
+[20:10:42] [Server thread/INFO]: Yumalala[/100.110.39.106:55673] logged in with entity id 21137 at (-310.69999998807907, 75.1875, -376.30000001192093)
+[20:10:42] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[20:10:42] [Server thread/INFO]: Loading config from file...
+[20:10:42] [Server thread/INFO]: Yumalala joined the game
+[20:10:42] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[20:11:39] [Server thread/INFO]: Yumalala lost connection: Disconnected
+[20:11:39] [Server thread/INFO]: Yumalala left the game
+[20:11:44] [Server thread/INFO]: Yumalala[/100.110.39.106:55906] logged in with entity id 21463 at (-310.69999998807907, 75.1875, -376.30000001192093)
+[20:11:44] [Server thread/INFO]: Syncing config to Yumalala (e5e1aa61-0148-3718-ade2-317eefd7bf71)
+[20:11:44] [Server thread/INFO]: Loading config from file...
+[20:11:45] [Server thread/INFO]: Yumalala joined the game
+[20:11:45] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Yumalala. Claiming: GRAVE / Robbing: INVENTORY
+[20:12:46] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[20:12:46] [Server thread/INFO]: Yumalala lost connection: Timed out
+[20:12:46] [Server thread/INFO]: Yumalala left the game
