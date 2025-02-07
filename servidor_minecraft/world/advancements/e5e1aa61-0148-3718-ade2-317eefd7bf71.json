@@ -7683,6 +7683,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_tuff_brick_slab": "2025-02-07 07:07:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_bars_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-02-07 04:08:15 +0000"
