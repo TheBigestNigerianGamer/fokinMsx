@@ -1148,3 +1148,7 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [05:38:50] [Server thread/INFO]: Named entity class_1642['Nigger'/112365, l='ServerLevel[world]', x=1000185.10, y=136.00, z=-341.51] died: Nigger was slain by Yumalala
 [05:40:50] [Server thread/INFO]: Named entity class_1642['NIGGER'/112568, l='ServerLevel[world]', x=1000185.74, y=136.19, z=-341.46] died: NIGGER was slain by Yumalala
 [05:43:13] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[05:43:44] [Server thread/INFO]: Villager class_1646['Unemployed'/112423, l='ServerLevel[world]', x=1000185.50, y=137.19, z=-340.70] died, message: 'Unemployed was slain by Nigger'
+[05:44:03] [Server thread/INFO]: Villager class_1646['Unemployed'/112421, l='ServerLevel[world]', x=1000183.50, y=137.19, z=-340.70] died, message: 'Unemployed was slain by Nigger'
+[05:44:11] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]
+[05:44:16] [Server thread/INFO]: Named entity class_1642['Nigger'/112896, l='ServerLevel[world]', x=1000183.35, y=137.00, z=-341.70] died: Nigger was slain by Yumalala
