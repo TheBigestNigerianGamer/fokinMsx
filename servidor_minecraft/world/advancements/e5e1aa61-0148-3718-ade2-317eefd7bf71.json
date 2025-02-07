@@ -6980,7 +6980,9 @@
       "nether_gold_ore": "2025-02-04 22:00:32 +0000",
       "nether_quartz_ore": "2025-02-04 21:59:37 +0000",
       "copper_ore": "2025-02-05 01:15:48 +0000",
-      "coal_ore": "2025-02-05 22:49:03 +0000"
+      "lapis_ore": "2025-02-06 02:30:13 +0000",
+      "coal_ore": "2025-02-05 22:49:03 +0000",
+      "iron_ore": "2025-02-06 02:29:15 +0000"
     },
     "done": false
   },
@@ -7167,6 +7169,48 @@
   "twigs:recipes/paper_lanterns/crimson_roots_paper_lantern": {
     "criteria": {
       "has_item": "2025-02-05 22:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-02-06 02:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-02-06 02:29:15 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/iron_ores": {
+    "criteria": {
+      "has_item": "2025-02-06 02:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-02-06 02:30:13 +0000"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/lapis_ores": {
+    "criteria": {
+      "has_item": "2025-02-06 02:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-02-06 02:30:13 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-02-06 02:30:23 +0000"
     },
     "done": true
   },
