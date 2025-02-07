@@ -7375,6 +7375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-07 05:19:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-07 05:02:33 +0000"
@@ -7696,6 +7702,12 @@
   "vinery:recipes/dark_cherry_stairs": {
     "criteria": {
       "has_cherry_planks": "2025-02-07 03:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-07 05:19:35 +0000"
     },
     "done": true
   },
