@@ -1,0 +1,6 @@
+{
+"mode": "absolute", // This determines how the time will be handled. Set to absolute for specific times or relative to have the day advance by a certain amount each time you sleep.
+"sunrise": 23000,
+"sunset": 13000,
+"advance": 12000 // This is the time advanced when the mode is set to relative
+}
