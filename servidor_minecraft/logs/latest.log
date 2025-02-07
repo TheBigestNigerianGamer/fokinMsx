@@ -1134,3 +1134,17 @@ Data pack `simplyskills` uses outdated version. Please update the configuration 
 [05:30:13] [Server thread/INFO]: Villager class_1646['Unemployed'/111369, l='ServerLevel[world]', x=1000184.35, y=142.00, z=-335.69] died, message: 'Unemployed was slain by Yumalala'
 [05:30:15] [Server thread/INFO]: Villager class_1646['Unemployed'/111368, l='ServerLevel[world]', x=1000185.50, y=144.36, z=-334.30] died, message: 'Unemployed was slain by Yumalala'
 [05:31:56] [Server thread/INFO]: Villager class_1646['Unemployed'/111255, l='ServerLevel[world]', x=1000184.07, y=137.00, z=-342.30] died, message: 'Unemployed was slain by Yumalala'
+[05:34:34] [Server thread/INFO]: Villager class_1646['Unemployed'/99005, l='ServerLevel[world]', x=1000068.12, y=107.00, z=-341.70] died, message: 'Unemployed was slain by Zombie'
+[05:34:41] [Server thread/INFO]: Villager class_1646['Unemployed'/99006, l='ServerLevel[world]', x=1000067.30, y=107.00, z=-341.30] died, message: 'Unemployed was slain by Zombie'
+[05:34:47] [Server thread/INFO]: Villager class_1646['Unemployed'/99007, l='ServerLevel[world]', x=1000067.30, y=107.00, z=-341.30] died, message: 'Unemployed was slain by Zombie'
+[05:36:14] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
+[05:36:58] [Server thread/INFO]: Named entity class_1642['Nigger'/112064, l='ServerLevel[world]', x=1000189.24, y=136.00, z=-341.50] died: Nigger was slain by Yumalala
+[05:37:07] [Server thread/INFO]: [Yumalala: Set own game mode to Creative Mode]
+[05:37:19] [Server thread/WARN]: Yumalala moved too quickly! -0.20291259849909693,-10.722248667987515,0.12107576739964543
+[05:37:57] [Server thread/INFO]: Villager class_1646['Unemployed'/111396, l='ServerLevel[world]', x=1000183.50, y=137.00, z=-339.47] died, message: 'Unemployed was slain by Yumalala'
+[05:38:00] [Server thread/INFO]: Villager class_1646['Unemployed'/111392, l='ServerLevel[world]', x=1000185.36, y=137.00, z=-339.51] died, message: 'Unemployed was slain by Yumalala'
+[05:38:18] [Server thread/INFO]: Yumalala has made the advancement [Spore Galore]
+[05:38:24] [Server thread/INFO]: Villager class_1646['Fisherman'/112427, l='ServerLevel[world]', x=1000182.04, y=138.00, z=-327.29] died, message: 'Fisherman was slain by Yumalala'
+[05:38:50] [Server thread/INFO]: Named entity class_1642['Nigger'/112365, l='ServerLevel[world]', x=1000185.10, y=136.00, z=-341.51] died: Nigger was slain by Yumalala
+[05:40:50] [Server thread/INFO]: Named entity class_1642['NIGGER'/112568, l='ServerLevel[world]', x=1000185.74, y=136.19, z=-341.46] died: NIGGER was slain by Yumalala
+[05:43:13] [Server thread/INFO]: [Yumalala: Set own game mode to Survival Mode]
